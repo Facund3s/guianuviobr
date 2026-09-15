@@ -143,6 +143,19 @@ Sumário
 - No aplicativo do Nuvio, siga o caminho Configurações/Geral/Integrações/Classificações do MDBList coloque a sua api do MDBList e ative a opção. Pronto, está feito.
 - Crie sua api MDBList - [Clique aqui](https://mdblist.com/preferences/#api_key_uid)
 
+### :mag: Insígnias 
+
+<table>
+  <tr>
+    <td><img width="772" height="205" alt="image" src="https://github.com/user-attachments/assets/20b92985-ebe8-4923-aa49-4142122f56eb" /></td>
+
+  </tr>
+</table>
+
+</div>
+
+- [Xperience APP](https://xperience-app.com/) - `Insígnias nos conteúdos (precisa de cadastro).`
+
 ## VPN Grátis
 
 - 🌐﻿ Proton VPN - [Clique Aqui](https://pr.tn/ref/GAGHDPMY)
