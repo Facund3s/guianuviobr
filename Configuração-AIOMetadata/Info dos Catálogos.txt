@@ -8,7 +8,7 @@ Populares Apple Tv (Streaming Provider) - Filmes e Séries
 Populares Paramount Plus (Streaming Provider) - Filmes e Séries
 Populares Crunchyroll (Streaming Provider) - Filmes e Séries
 Populares Mubi (Streaming Provider) - Filmes e Séries
-Doramas (Customizado) - Filmes e Séries 
+Doramas (101 Catalogs) - Filmes e Séries 
 Marvel (TMDB) - Filmes e Séries 
 DC Comics (TMDB) - Filmes e Séries
 
