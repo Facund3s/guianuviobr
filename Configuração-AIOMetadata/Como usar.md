@@ -31,7 +31,7 @@ Dica ³・Deixe o add-on de metadata na primeira posição.
 Dica ⁴・Não esqueça a senha de configuração, você irá precisar dela para fazer qualquer edição na configuração do aiometadata.
 
 ═══════════════════════════════════════════════════════════════════════════
-### Outros APIs
+### Outras APIs
 
 ・[TMDB](https://www.themoviedb.org/settings/api) - `Necessário cadastro.`
 
