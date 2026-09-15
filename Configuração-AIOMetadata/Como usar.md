@@ -1,11 +1,11 @@
 ✍️・TUTORIAL DE INSTALAÇÃO (NECESSÁRIO API DO TMDB)
 
-・LINKS ÚTEIS
+:link: ・LINKS ÚTEIS
 
-・[TMDB](https://www.themoviedb.org/?language=pt-BR)
-・[TMDB API](https://www.themoviedb.org/settings/api?language=pt-BR)
-・[AIOmetadata ¹](https://aiometadata.forthewizards.uk/)
-・[AIOmetadata ²](https://aiometadata.elfhosted.com/)
+:frame_photo:・[TMDB](https://www.themoviedb.org/?language=pt-BR)
+:tools:・[TMDB API](https://www.themoviedb.org/settings/api?language=pt-BR)
+:tools:・[AIOmetadata ¹](https://aiometadata.forthewizards.uk/)
+:tools:・[AIOmetadata ²](https://aiometadata.elfhosted.com/)
 
 1️⃣・Acesse o site de configuração do addon do AIOmetadata.
 2️⃣・Pule a configuração rápida, se o site tiver em inglês clique em SKIP ao lado do seletor de idioma.
