@@ -58,7 +58,7 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 - [SubSense](https://subsense.nepiraw.com) - `Acervo geral de legendas.`
 
 
-## Legenda
+## Info
 - **Debrid** - É um serviço pago que esconde a complexidade dos downloads pela internet e te entrega arquivos de forma muito mais rápida, confiável e segura (link criptografado) por um custo pequeno.
 - **Metadata** - A metadata/metadado é o "coração" da interface. É o conjunto de dados (título, sinopse, capa, elenco) que os add-ons como Cinemeta buscam de fontes como o IMDb para transformar uma simples lista de arquivos em uma experiência de streaming bonita, informativa e fácil de navegar.
 - **Sobre os Links**・Eles são pra você clicar e configurar a url do add-on e adicionar no app. Alguns links não irão te redirecionar para uma página, por exemplo, se o addon finalizar com `manifest.json` isso significa que ele não tem página de configuração e já está com o link final.
