@@ -187,4 +187,5 @@ Versão 0.9.3 beta
 
 ## Contribuições & Agradecimentos
 - Bruce
+- Marechau
 
