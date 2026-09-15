@@ -22,6 +22,9 @@
 ═══════════════════════════════════════════════════════════════════════════
 
 Dica ¹ ・Remova outros addons de metadatas como cinemeta e tmdb .
+
 Dica ²・Remova/Desative também catálogos dos add-ons de filmes e séries (Exemplostream, ExemploFlix etc.).
+
 Dica ³・Deixe o add-on de metadata na primeira posição. 
+
 Dica ⁴・Não esqueça a senha de configuração, você irá precisar dela para fazer qualquer edição na configuração do aiometadata.
