@@ -8,6 +8,33 @@
 ## Seja bem vindo(a)
 Essa página é o nosso pequeno levantamento de addons que estão disponíveis em nosso idioma e também contém algumas informações que irão ajudar quem está começando a usar o Stremio/Nuvio.
 
+Sumário
+
+1.0 [Addons - Stremio/Nuvio](https://github.com/Facund3s/guianuviobr/edit/main/README.md#addons---stremionuvio)
+1.1 [Metadados (Addon Principal do Aplicativo)](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-metadados-addon-principal-do-aplicativo)
+1.2 [APIs (metadados)](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-apis-metadados)
+1.3 [Catálogo](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-cat%C3%A1logo)
+1.4 [Serviço de Debrid](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-servi%C3%A7o-de-debrid)
+1.5 [Coleções](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-cole%C3%A7%C3%B5es)
+1.6 [Configuração de Posters](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-configura%C3%A7%C3%A3o-de-posters)
+1.7 [Gerenciador de contas nuvio/stremio](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-gerenciador-de-contas-nuviostremio)
+1.8 [Legendas](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-legendas)
+
+2.0 [Info](https://github.com/Facund3s/guianuviobr/edit/main/README.md#info)
+
+3.0 [Dicas](https://github.com/Facund3s/guianuviobr/edit/main/README.md#dicas)
+
+4.0 [Tutoriais](https://github.com/Facund3s/guianuviobr/edit/main/README.md#tutoriais)
+4.1 [Como alterar o DNS](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-como-alterar-o-dns-na-configura%C3%A7%C3%B5es-de-rede-videos)
+4.2 [Avaliações na página do conteúdo](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-avalia%C3%A7%C3%B5es-na-p%C3%A1gina-do-conte%C3%BAdo)
+
+5.0 [VPN Grátis](https://github.com/Facund3s/guianuviobr/edit/main/README.md#vpn-gr%C3%A1tis)
+
+6.0 [Aplicativos](https://github.com/Facund3s/guianuviobr/edit/main/README.md#aplicativos)
+6.1 [Nuvio - Android Tv via Downloader](https://github.com/Facund3s/guianuviobr/edit/main/README.md#tv-nuvio---android-tv-via-downloader---outras-vers%C3%B5es)
+6.2 [Nuvio - Desktop](https://github.com/Facund3s/guianuviobr/edit/main/README.md#tv-nuvio---desktop)
+6.3 [Nuvio - Android Mobile](https://github.com/Facund3s/guianuviobr/edit/main/README.md#tv-nuvio---android-mobile)
+
 ## Addons - Stremio/Nuvio
 
 ### :mag: Metadados (Addon Principal do Aplicativo)
@@ -76,7 +103,7 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 
 ## Tutoriais
 
-:mag: Como alterar o DNS na configurações de rede (videos).
+### :mag: Como alterar o DNS na configurações de rede (videos).
 
 - :tv: Android - [Clique aqui](https://www.youtube.com/shorts/vJz3VFZUStc)
 - :tv: Samsung - [Clique aqui](https://www.youtube.com/watch?v=qlSRNVQgkIU)
@@ -87,7 +114,7 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 - 📱 iOs (Wi-Fi) - [Clique aqui](https://www.youtube.com/watch?v=F8RkiOKNDj4)
 - 📱 iOs (Redes Móveis) - [Baixe o App](https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)
 
-:mag: Avaliações na página do conteúdo
+### :mag: Avaliações na página do conteúdo
 
 <div align="center">
 
