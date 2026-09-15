@@ -43,6 +43,7 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 - [EasyRatings](https://easyratingsdb.com/configurator) - `Posters Personalizados.`
 - [TopPosters](https://top-posters.com/user/login) - `Posters Personalizados (necessário cadastro.)`
 - [PostersPlus](https://postersplus.elfhosted.com/) - `Posters Personalizados.`
+- [XRDB](https://xrdb.addonnuvio.duckdns.org/configurator) - `Posters Personalizados.`
 
 ### :mag: Gerenciador de contas nuvio/stremio
 - [Aiomanager](https://aiomanager-beta.stremio.ru) - `Opção Principal.`
@@ -92,8 +93,8 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 
 <table>
   <tr>
-    <td><img width="517" height="272" alt="image" src="https://github.com/user-attachments/assets/8b43a0be-36a5-4f7f-9972-de483df3abec" /></td>
     <td><img width="517" height="272" alt="image" src="https://github.com/user-attachments/assets/e752b183-4ffd-4616-af8d-b5884a6e841c" /></td>
+    <td><img width="517" height="272" alt="image" src="https://github.com/user-attachments/assets/bad6d948-b40f-47e8-a397-0bbb9f028c7c" /></td>
 
   </tr>
 </table>
