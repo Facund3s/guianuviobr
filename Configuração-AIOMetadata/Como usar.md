@@ -11,9 +11,9 @@
 
 2️⃣・Pule a configuração rápida, se o site tiver em inglês clique em SKIP ao lado do seletor de idioma.
 
-3️⃣・Navegue até o menu de configurações/configuration e localize a opção importar configuração/import configuration .
+3️⃣・Navegue até o menu de configurações/configuration e localize a opção importar _**Configuration URL**_.
 
-4️⃣・Faça o download do arquivo de configuração .json abaixo e depois upe na opção de importação do arquivo. 
+4️⃣・Copie o link a seguir e cole:  https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Configura%C3%A7%C3%A3o-AIOMetadata/Configura%C3%A7%C3%A3o.json
 
 5️⃣・Adicione sua api do TMDB no menu Integrações/Integrations, ela é necessária. Cria a sua no segundo link acima.
 
