@@ -93,7 +93,8 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 <table>
   <tr>
     <td><img width="517" height="272" alt="image" src="https://github.com/user-attachments/assets/8b43a0be-36a5-4f7f-9972-de483df3abec" /></td>
-    <td><img width="517" height="272" alt="image" src="https://github.com/user-attachments/assets/8b507fb2-2c88-4ea3-a2b5-33d9c46b936d" /></td>
+    <td><img width="517" height="272" alt="image" src="https://github.com/user-attachments/assets/e752b183-4ffd-4616-af8d-b5884a6e841c" /></td>
+
   </tr>
 </table>
 
