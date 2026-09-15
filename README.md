@@ -111,7 +111,7 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 
 ## Aplicativos
 
-### :tv: Nuvio - Android Tv via Downloader
+### :tv: Nuvio - Android Tv via Downloader - [Outras versões](https://github.com/NuvioMedia/NuvioTV/releases)
 
 Versão 0.9.0 beta
 - app-full-arm64-v8a-release.apk - ***Código Downloader:*** `8924043`
@@ -122,3 +122,12 @@ Versão 0.9.2 beta
 - app-full-arm64-v8a-release.apk - ***Código Downloader:*** `6817136`
 - app-full-armeabi-v7a-release.apk -*** Código Downloader:*** `7184826`
 - app-full-universal-release.apk - ***Código Downloader:*** `3854721`
+
+Versão 0.9.3 beta
+- app-full-arm64-v8a-release.apk - ***Código Downloader:*** `4160584`
+- app-full-armeabi-v7a-release.apk -*** Código Downloader:*** `2945050`
+- app-full-universal-release.apk - ***Código Downloader:*** `7116834`
+
+### :tv: Nuvio - [Desktop](https://github.com/NuvioMedia/NuvioDesktop/releases)
+### :tv: Nuvio - [Android Mobile](https://github.com/NuvioMedia/NuvioMobile/releases)
+
