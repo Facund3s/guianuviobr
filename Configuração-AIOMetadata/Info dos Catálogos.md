@@ -1,7 +1,5 @@
 **Poupulares (TMDB)** - Filmes e Séries
-
 **Últimos lançamentos (TMDB)** - Filmes e Séries
-
 **Populares Netflix (Streaming Provider)** - Filmes e Séries
 
 **Populares Disney PLus (Streaming Provider)** - Filmes e Séries
