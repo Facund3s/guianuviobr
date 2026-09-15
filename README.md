@@ -21,7 +21,7 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 - [Google Gemini](https://aistudio.google.com/app/apikey) - `Necessário login.`
 
 ### :mag: Catálogo
-- [K-Drama Crush](https://kdrama-binge.vercel.app/eyJjYXRhbG9ncyI6WyJLLURyYW1hcyIsInRvcF9rZHJhbWFzXzIwMjUiXSwiZW1haWwiOiIifQ==/manifest.json) - `Catálogo de Doramas.`
+- [K-Drama Crush](https://kdrama-binge.vercel.app) - `Catálogo de Doramas.`
 - [Streaming Catalógo](https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club) - `Catálogo de conteúdos de apps de Streaming.`
 - [Anime Kitsu](https://anime-kitsu.strem.fun/manifest.json) - `Catálogo de animes.`
 - [101Catalogs](https://config.101catalogs.xyz) - `Maior acervo de catálogos.`
