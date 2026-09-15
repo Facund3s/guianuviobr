@@ -1,16 +1,16 @@
-Poupulares (TMDB) - Filmes e Séries
-Últimos lançamentos (TMDB) - Filmes e Séries
-Populares Netflix (Streaming Provider) - Filmes e Séries
-Populares Disney PLus (Streaming Provider) - Filmes e Séries
-Populares HBO Max (Streaming Provider) - Filmes e Séries
-Populares Prime Vídeo (Streaming Provider) - Filmes e Séries
-Populares Apple Tv (Streaming Provider) - Filmes e Séries
-Populares Paramount Plus (Streaming Provider) - Filmes e Séries
-Populares Crunchyroll (Streaming Provider) - Filmes e Séries
-Populares Mubi (Streaming Provider) - Filmes e Séries
-Doramas (101 Catalogs) - Filmes e Séries
-Marvel (TMDB) - Filmes e Séries
-DC Comics (TMDB) - Filmes e Séries
+・Poupulares (TMDB) - Filmes e Séries
+・Últimos lançamentos (TMDB) - Filmes e Séries
+・Populares Netflix (Streaming Provider) - Filmes e Séries
+・Populares Disney PLus (Streaming Provider) - Filmes e Séries
+・Populares HBO Max (Streaming Provider) - Filmes e Séries
+・Populares Prime Vídeo (Streaming Provider) - Filmes e Séries
+・Populares Apple Tv (Streaming Provider) - Filmes e Séries
+・Populares Paramount Plus (Streaming Provider) - Filmes e Séries
+・Populares Crunchyroll (Streaming Provider) - Filmes e Séries
+・Populares Mubi (Streaming Provider) - Filmes e Séries
+・Doramas (101 Catalogs) - Filmes e Séries
+・Marvel (TMDB) - Filmes e Séries
+・DC Comics (TMDB) - Filmes e Séries
 
 Total de catálogos: 26
 
