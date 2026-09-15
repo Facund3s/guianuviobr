@@ -4,3 +4,8 @@
   <br />
   <br />
 
+
+## Seja vem vindo(a)
+
+Essa página é o nosso pequeno levantamento de addons que estão disponíveis em nosso idioma e também contém algumas informações que irão ajudar quem está começando a usar o Stremio/Nuvio.
+
