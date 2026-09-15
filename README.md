@@ -1,6 +1,5 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/2ed1bad6-b262-4fd9-a436-c6da5f408e7d" alt="Nuvio" width="300" />
+  <img src="https://github.com/user-attachments/assets/b20eaa1f-722c-4251-b4d4-cca68a6df0ce" alt="Nuvio" width="300" />
   <br />
   <br />
-
