@@ -68,6 +68,7 @@ Sumário
 - [TMDB](https://94c8cb9f702d-tmdb-addon.baby-beamup.club/configure) - `Catálogos do TMDB.`
 - [Streaming Catalogs Plus](https://scplus.duckdns.org/configure) - `Catálogos em Geral.`
 - [Wrestling & UFC](https://wrestling-ufc-eventos1.vercel.app/configure) - `Catálogos de Lutas.`
+- [Dramayo](https://dramayo.stream/configure) - `Catálogos Asiáticos.`
 
 ### :mag: Serviço de Debrid
 - [Tor Box](https://torbox.app/subscription?referral=9607f7bf-8ae6-4e79-9bfe-f1756e5f20be) - `Serviço mais usado.`
