@@ -10,8 +10,6 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 
 ## Sumário
 
-Sumário
-
 - 1.0 [Addons - Stremio/Nuvio](https://github.com/Facund3s/guianuviobr#addons---stremionuvio)
 - 1.1 [Metadados (Addon Principal do Aplicativo)](https://github.com/Facund3s/guianuviobr#mag-metadados-addon-principal-do-aplicativo)
 - 1.2 [APIs (metadados)](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-apis-metadados)
