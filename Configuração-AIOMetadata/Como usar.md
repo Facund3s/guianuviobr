@@ -3,9 +3,9 @@
 ・LINKS ÚTEIS
 
 [TMDB](https://www.themoviedb.org/?language=pt-BR)
-[TMDB API](https://www.themoviedb.org/settings/api?language=pt-BR)
-[AIOmetadata ¹](https://aiometadata.forthewizards.uk/)
-[AIOmetadata ²](https://aiometadata.elfhosted.com/)
+・ [TMDB API](https://www.themoviedb.org/settings/api?language=pt-BR)
+・ [AIOmetadata ¹](https://aiometadata.forthewizards.uk/)
+・ [AIOmetadata ²](https://aiometadata.elfhosted.com/)
 
 1️⃣・Acesse o site de configuração do addon do AIOmetadata.
 2️⃣・Pule a configuração rápida, se o site tiver em inglês clique em SKIP ao lado do seletor de idioma.
