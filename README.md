@@ -72,9 +72,10 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 - Não esqueça a senha de configuração, você irá precisar dela para fazer qualquer edição na configuração do aiometadata.
 - Se você usa o Nuvio em uma ***Android Tv*** ou ***Celular Android***, use sempre a versão do [Github](https://github.com/NuvioMedia), ele irá sempre atualizar mais rápido que a playstore. 
 
+
 ## Tutoriais
 
-:mag:・Como alterar o DNS na configurações de rede (videos).
+:mag: Como alterar o DNS na configurações de rede (videos).
 
 - :tv: Android - [Clique aqui](https://www.youtube.com/shorts/vJz3VFZUStc)
 - :tv: Samsung - [Clique aqui](https://www.youtube.com/watch?v=qlSRNVQgkIU)
@@ -85,7 +86,23 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 - 📱 iOs (Wi-Fi) - [Clique aqui](https://www.youtube.com/watch?v=F8RkiOKNDj4)
 - 📱 iOs (Redes Móveis) - [Baixe o App](https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)
 
+:mag: Avaliações na página do conteúdo
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img width="517" height="272" alt="image" src="https://github.com/user-attachments/assets/8b43a0be-36a5-4f7f-9972-de483df3abec" /></td>
+    <td><img width="517" height="272" alt="image" src="https://github.com/user-attachments/assets/8b507fb2-2c88-4ea3-a2b5-33d9c46b936d" /></td>
+  </tr>
+</table>
+
+</div>
+
+- No aplicativo do Nuvio, siga o caminho Configurações/Geral/Integrações/Classificações do MDBList coloque a sua api do MDBList e ative a opção. Pronto, está feito.
+- Crie sua api MDBList - [Clique aqui](https://mdblist.com/preferences/#api_key_uid)
+
 ## VPN Grátis
 
-﻿- 🌐﻿ Proton VPN - [Clique Aqui](https://pr.tn/ref/GAGHDPMY)
+- 🌐﻿ Proton VPN - [Clique Aqui](https://pr.tn/ref/GAGHDPMY)
 - 🌐﻿ AdGuard VPN - [Clique Aqui](https://adguard-vpn.com/pt_br)
