@@ -1,6 +1,6 @@
-✍️・TUTORIAL DE INSTALAÇÃO (NECESSÁRIO API DO TMDB)
+## TUTORIAL DE INSTALAÇÃO (NECESSÁRIO API DO TMDB)
 
-## LINKS ÚTEIS
+### LINKS ÚTEIS
 
 [TMDB](https://www.themoviedb.org/?language=pt-BR)
 ・ [TMDB API](https://www.themoviedb.org/settings/api?language=pt-BR)
