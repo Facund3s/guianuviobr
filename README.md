@@ -106,3 +106,17 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 
 - 🌐﻿ Proton VPN - [Clique Aqui](https://pr.tn/ref/GAGHDPMY)
 - 🌐﻿ AdGuard VPN - [Clique Aqui](https://adguard-vpn.com/pt_br)
+
+## Aplicativos
+
+### :tv: Nuvio - Android Tv via Downloader
+
+Versão 0.9.0 beta
+- app-full-arm64-v8a-release.apk - ***Código Downloader:*** `8924043`
+- app-full-armeabi-v7a-release.apk - ***Código Downloader:*** `8454519`
+- app-full-universal-release.apk - ***Código Downloader:*** `2603758`
+
+Versão 0.9.2 beta
+- app-full-arm64-v8a-release.apk - ***Código Downloader:*** `6817136`
+- app-full-armeabi-v7a-release.apk -*** Código Downloader:*** `7184826`
+- app-full-universal-release.apk - ***Código Downloader:*** `3854721`
