@@ -20,6 +20,7 @@
 6️⃣・Crie sua senha da configuração, salve, copie o link gerado e adicione no menu de addons do Nuvio/Stremio.
 
 ═══════════════════════════════════════════════════════════════════════════
+### Dicas
 
 Dica ¹ ・Remova outros addons de metadatas como cinemeta e tmdb .
 
@@ -28,3 +29,16 @@ Dica ²・Remova/Desative também catálogos dos add-ons de filmes e séries (Ex
 Dica ³・Deixe o add-on de metadata na primeira posição. 
 
 Dica ⁴・Não esqueça a senha de configuração, você irá precisar dela para fazer qualquer edição na configuração do aiometadata.
+
+═══════════════════════════════════════════════════════════════════════════
+### Outros APIs
+
+・[TMDB](https://www.themoviedb.org/settings/api) - `Necessário cadastro.`
+
+・[MDBList](https://mdblist.com/preferences/#api_key_uid) - `Necessário cadastro.`
+
+・[TheTVDB](https://thetvdb.com/api-information) - `Necessário cadastro.`
+
+・[RPDB](https://ratingposterdb.com/api-key/) - `t0-free-rpdb`
+
+・[Google Gemini](https://aistudio.google.com/app/apikey) - `Necessário login.`
