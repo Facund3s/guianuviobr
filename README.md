@@ -82,7 +82,8 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 ### :mag: Configuração de Posters
 - [EasyRatings](https://easyratingsdb.com/configurator) - `Posters Personalizados.`
 - [TopPosters](https://top-posters.com/user/login) - `Posters Personalizados (necessário cadastro.)`
-- [PostersPlus](https://postersplus.elfhosted.com/) - `Posters Personalizados.`
+- [Posters Plus ElfHosted](https://postersplus.elfhosted.com/) - `Posters Personalizados.`
+- [Posters Plus Slokker](https://postersplus.slokker.cc/) - `Posters Personalizados.`
 - [XRDB](https://xrdb.addonnuvio.duckdns.org/configurator) - `Posters Personalizados.`
 
 ### :mag: Gerenciador de contas nuvio/stremio
