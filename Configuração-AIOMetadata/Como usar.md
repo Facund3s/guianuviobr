@@ -15,7 +15,7 @@
 
 4️⃣・Copie o link a seguir e cole:  [Clique aqui e copie o link](https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Configura%C3%A7%C3%A3o-AIOMetadata/Configura%C3%A7%C3%A3o.json)
 
-5️⃣・Adicione sua api do TMDB no menu Integrações/Integrations, ela é necessária. Cria a sua no segundo link acima.
+5️⃣・Adicione sua api do TMDB no menu Integrações/Integrations, ela é necessária. Crie a sua no segundo link acima.
 
 6️⃣・Crie sua senha da configuração, salve, copie o link gerado e adicione no menu de addons do Nuvio/Stremio.
 
