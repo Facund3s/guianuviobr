@@ -13,7 +13,7 @@
 
 3️⃣・Navegue até o menu de configurações/configuration e localize a opção importar _**Configuration URL**_.
 
-4️⃣・Copie o link a seguir e cole:  [Clique aqui e copie o link](https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Configura%C3%A7%C3%A3o-AIOMetadata/Configura%C3%A7%C3%A3o.json)
+4️⃣・Copie o link a seguir e cole  [Clique aqui e copie o link](https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Configura%C3%A7%C3%A3o-AIOMetadata/Configura%C3%A7%C3%A3o.json)
 
 5️⃣・Adicione sua api do TMDB no menu Integrações/Integrations, ela é necessária. Crie a sua no segundo link acima.
 
