@@ -5,8 +5,12 @@
   <br />
 </div>
 
-## Seja bem vindo(a)
-Essa página é o nosso pequeno levantamento de addons que estão disponíveis em nosso idioma e também contém algumas informações que irão ajudar quem está começando a usar o Stremio/Nuvio.
+<h1 align="center">Seja bem vindo(a)</h1>
+
+<h3 align="center"><i><b>Essa página é o nosso pequeno levantamento de addons que estão disponíveis em nosso idioma e também contém algumas informações que irão ajudar quem está começando a usar o Stremio/Nuvio.</b></i></h3>
+
+
+---
 
 ## Sumário
 
