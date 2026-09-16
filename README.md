@@ -111,7 +111,6 @@
 - [SubSource](https://subsource.strem.top/configure) - `Acervo geral de legendas.`
 - [SubSense](https://subsense.nepiraw.com) - `Acervo geral de legendas.`
 
-
 ## Info
 - **Debrid** - É um serviço pago que esconde a complexidade dos downloads pela internet e te entrega arquivos de forma muito mais rápida, confiável e segura (link criptografado) por um custo pequeno.
 - **Metadata** - A metadata/metadado é o "coração" da interface. É o conjunto de dados (título, sinopse, capa, elenco) que os add-ons como Cinemeta buscam de fontes como o IMDb para transformar uma simples lista de arquivos em uma experiência de streaming bonita, informativa e fácil de navegar.
@@ -168,7 +167,8 @@
 
 </div>
 
-- [Xperience APP](https://xperience-app.com/) - `Insígnias nos conteúdos (precisa de cadastro).`
+- [Badger](https://nintle.github.io/Badger/) - `Insígnias.`
+- [Xperience APP](https://xperience-app.com/) - `Insígnias (precisa de cadastro).`
 - Configure do seu jeito no site e após finalizar gere a URL. Após isso, abra o Nuvio e siga o caminho Configurações/Layout/Streams/URLs de emblemas Fusion e cole a url que você copiou. 
 
 ### :mag: Avatar Personalizado
