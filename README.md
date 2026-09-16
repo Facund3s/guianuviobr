@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1011" height="386" alt="image" src="https://github.com/user-attachments/assets/a0f4ec04-0f24-4034-a43a-1360187d0181" /><div align="center">
 
   <img src="https://github.com/user-attachments/assets/85ba71e0-5154-41fb-8144-d4f413031cb0" alt="Nuvio" width="500" />
   <br />
@@ -157,6 +157,23 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 </div>
 
 - [Xperience APP](https://xperience-app.com/) - `Insígnias nos conteúdos (precisa de cadastro).`
+- Configure do seu jeito no site e após finalizar gere a URL. Após isso, abra o Nuvio e siga o caminho Configurações/Layout/Streams/URLs de emblemas Fusion e cole a url que você copiou. 
+
+### Avatar Personalizado
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img width="1011" height="386" alt="image" src="https://github.com/user-attachments/assets/111fc70b-b228-4829-9b53-271b0273366b" /></td>
+
+  </tr>
+</table>
+
+</div>
+
+- [Xperience APP](https://xperience-app.com/) - `Acervo com milhares de Avatares (precisa de cadastro).`
+- Copie o link do avatar que você escolheu e no nuvio abra as configurações do seu perfil e cole a url que você copiou em _**Custom avatar URL**_ e salve.
 
 ## VPN Grátis
 
