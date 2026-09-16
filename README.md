@@ -59,7 +59,7 @@
 ### :mag: Metadados (Addon Principal do Aplicativo)
 - [AIOmetadata](https://aiometadata.forthewizards.uk) - `Metadata completo para configurar catálogos, APIs, Idioma, Posters, Motor de Busca etc.`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 ### :mag: APIs (metadados)
 - [TMDB](https://www.themoviedb.org/settings/api) - `Necessário cadastro.`
@@ -68,7 +68,7 @@
 - [RPDB](https://ratingposterdb.com/api-key/) - `t0-free-rpdb`
 - [Google Gemini](https://aistudio.google.com/app/apikey) - `Necessário login.`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 ### :mag: Catálogo
 - [K-Drama Crush](https://kdrama-binge.vercel.app) - `Catálogo de Doramas.`
@@ -81,6 +81,8 @@
 - [Wrestling & UFC](https://wrestling-ufc-eventos1.vercel.app/configure) - `Catálogos de Lutas.`
 - [Dramayo](https://dramayo.stream/configure) - `Catálogos Asiáticos.`
 
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
+
 ### :mag: Serviço de Debrid
 - [Tor Box](https://torbox.app/subscription?referral=9607f7bf-8ae6-4e79-9bfe-f1756e5f20be) - `Serviço mais usado.`
 - [Real Debrid](https://real-debrid.com/) - `Debrid.`
@@ -88,12 +90,18 @@
 - [All Debrid](https://alldebrid.com/) - `Debrid.`
 - [Debrid Link](https://debrid-link.com/) - `Debrid.`
 
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
+
 ### :mag: Debrid Search
 - [Intelligent Debrid Search¹](https://intell-debridsearch.nepiraw.com/configure) - `Buscador de Torrents e Downloads no debrid.`
 - [Intelligent Debrid Search²](https://intell-debridsearch.vercel.app/configure) - `Buscador de Torrents e Downloads no debrid.`
 
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
+
 ### :mag: Coleções
 - [DuckGuides](https://duckkota.gitlab.io/guides/collections/) -  `Acervo de Coleções com capa.`
+
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 ### :mag: Configuração de Posters
 - [EasyRatings](https://easyratingsdb.com/configurator) - `Posters Personalizados.`
@@ -102,10 +110,14 @@
 - [Posters Plus Slokker](https://postersplus.slokker.cc/) - `Posters Personalizados.`
 - [XRDB](https://xrdb.addonnuvio.duckdns.org/configurator) - `Posters Personalizados.`
 
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
+
 ### :mag: Gerenciador de contas nuvio/stremio
 - [Aiomanager](https://aiomanager-beta.stremio.ru) - `Opção Principal.`
 - [Aiomanager](https://aiomanager-beta.fortheweak.cloud) - `Opção 2.`
 - [Aiomanager](https://aiomanager.ibbylabs.dev) - `Opção 3.`
+
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 ### :mag: Legendas
 - [OpenSubtitles v3](https://opensubtitles-v3.strem.io/manifest.json) - `Maior acervo de legendas da web.`
@@ -114,6 +126,8 @@
 - [SubDL](https://stremio.subdl.com/configure#/key) - `Acervo geral de legendas.`
 - [SubSource](https://subsource.strem.top/configure) - `Acervo geral de legendas.`
 - [SubSense](https://subsense.nepiraw.com) - `Acervo geral de legendas.`
+
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 ## Info
 - **Debrid** - É um serviço pago que esconde a complexidade dos downloads pela internet e te entrega arquivos de forma muito mais rápida, confiável e segura (link criptografado) por um custo pequeno.
@@ -129,6 +143,7 @@
 - Não esqueça a senha de configuração, você irá precisar dela para fazer qualquer edição na configuração do aiometadata.
 - Se você usa o Nuvio em uma ***Android Tv*** ou ***Celular Android***, use sempre a versão do [Github](https://github.com/NuvioMedia), ele irá sempre atualizar mais rápido que a playstore. 
 
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 ## Tutoriais
 
@@ -142,6 +157,8 @@
 - 📱 Android Mobile (DNS Privado) - [Clique aqui](https://www.youtube.com/watch?v=gczuoOkj8d4)
 - 📱 iOs (Wi-Fi) - [Clique aqui](https://www.youtube.com/watch?v=F8RkiOKNDj4)
 - 📱 iOs (Redes Móveis) - [Baixe o App](https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)
+
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 ### :mag: Avaliações na página do conteúdo
 
@@ -160,6 +177,8 @@
 - No aplicativo do Nuvio, siga o caminho Configurações/Geral/Integrações/Classificações do MDBList coloque a sua api do MDBList e ative a opção. Pronto, está feito.
 - Crie sua api MDBList - [Clique aqui](https://mdblist.com/preferences/#api_key_uid)
 
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
+
 ### :mag: Insígnias 
 
 <table>
@@ -173,7 +192,9 @@
 
 - [Badger](https://nintle.github.io/Badger/) - `Insígnias.`
 - [Xperience APP](https://xperience-app.com/) - `Insígnias (precisa de cadastro).`
-- Configure do seu jeito no site e após finalizar gere a URL. Após isso, abra o Nuvio e siga o caminho Configurações/Layout/Streams/URLs de emblemas Fusion e cole a url que você copiou. 
+- Configure do seu jeito no site e após finalizar gere a URL. Após isso, abra o Nuvio e siga o caminho Configurações/Layout/Streams/URLs de emblemas Fusion e cole a url que você copiou.
+
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 ### :mag: Avatar Personalizado
 
@@ -189,10 +210,14 @@
 - [Xperience APP](https://xperience-app.com/) - `Acervo com milhares de Avatares (precisa de cadastro).`
 - Copie o link do avatar que você escolheu e no nuvio abra as configurações do seu perfil e cole a url que você copiou em _**Custom avatar URL**_ e salve.
 
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
+
 ## VPN Grátis
 
 - 🌐﻿ Proton VPN - [Clique Aqui](https://pr.tn/ref/GAGHDPMY)
 - 🌐﻿ AdGuard VPN - [Clique Aqui](https://adguard-vpn.com/pt_br)
+
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 ## Aplicativos
 
@@ -215,6 +240,8 @@ Versão 0.9.3 beta
 
 ### :tv: Nuvio - [Desktop](https://github.com/NuvioMedia/NuvioDesktop/releases)
 ### :tv: Nuvio - [Android Mobile](https://github.com/NuvioMedia/NuvioMobile/releases)
+
+<p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
 ## 🫡 Contribuições & Agradecimentos
 - Bruce
