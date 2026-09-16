@@ -59,12 +59,16 @@
 ### :mag: Metadados (Addon Principal do Aplicativo)
 - [AIOmetadata](https://aiometadata.forthewizards.uk) - `Metadata completo para configurar catálogos, APIs, Idioma, Posters, Motor de Busca etc.`
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### :mag: APIs (metadados)
 - [TMDB](https://www.themoviedb.org/settings/api) - `Necessário cadastro.`
 - [MDBList](https://mdblist.com/preferences/#api_key_uid) - `Necessário cadastro.`
 - [TheTVDB](https://thetvdb.com/api-information) - `Necessário cadastro.`
 - [RPDB](https://ratingposterdb.com/api-key/) - `t0-free-rpdb`
 - [Google Gemini](https://aistudio.google.com/app/apikey) - `Necessário login.`
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### :mag: Catálogo
 - [K-Drama Crush](https://kdrama-binge.vercel.app) - `Catálogo de Doramas.`
