@@ -51,6 +51,8 @@
 - 6.2 [Nuvio - Desktop](https://github.com/Facund3s/guianuviobr#tv-nuvio---desktop)
 - 6.3 [Nuvio - Android Mobile](https://github.com/Facund3s/guianuviobr#tv-nuvio---android-mobile)
 
+---
+
 ## Addons - Stremio/Nuvio
 
 ### :mag: Metadados (Addon Principal do Aplicativo)
