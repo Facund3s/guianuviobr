@@ -199,7 +199,7 @@
 - [Debrid Link](https://debrid-link.com/) - `Debrid.`
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -209,7 +209,7 @@
 - [Intelligent Debrid Search²](https://intell-debridsearch.vercel.app/configure) - `Buscador de Torrents e Downloads no debrid.`
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -218,7 +218,7 @@
 - [DuckGuides](https://duckkota.gitlab.io/guides/collections/) -  `Acervo de Coleções com capa.`
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -231,7 +231,7 @@
 - [XRDB](https://xrdb.addonnuvio.duckdns.org/configurator) - `Posters Personalizados.`
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -242,7 +242,7 @@
 - [Aiomanager](https://aiomanager.ibbylabs.dev) - `Opção 3.`
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -256,7 +256,7 @@
 - [SubSense](https://subsense.nepiraw.com) - `Acervo geral de legendas.`
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -276,7 +276,7 @@
 - Se você usa o Nuvio em uma ***Android Tv*** ou ***Celular Android***, use sempre a versão do [Github](https://github.com/NuvioMedia), ele irá sempre atualizar mais rápido que a playstore. 
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -295,7 +295,7 @@
 - 📱 iOs (Redes Móveis) - [Baixe o App](https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -318,7 +318,7 @@
 - Crie sua api MDBList - [Clique aqui](https://mdblist.com/preferences/#api_key_uid)
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -339,7 +339,7 @@
 - Configure do seu jeito no site e após finalizar gere a URL. Após isso, abra o Nuvio e siga o caminho Configurações/Layout/Streams/URLs de emblemas Fusion e cole a url que você copiou.
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -359,7 +359,7 @@
 - Copie o link do avatar que você escolheu e no nuvio abra as configurações do seu perfil e cole a url que você copiou em _**Custom avatar URL**_ e salve.
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -370,7 +370,7 @@
 - 🌐﻿ AdGuard VPN - [Clique Aqui](https://adguard-vpn.com/pt_br)
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -398,7 +398,7 @@ Versão 0.9.3 beta
 ### :tv: Nuvio - [Android Mobile](https://github.com/NuvioMedia/NuvioMobile/releases)
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
