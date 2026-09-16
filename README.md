@@ -1,4 +1,4 @@
-<img width="1011" height="386" alt="image" src="https://github.com/user-attachments/assets/a0f4ec04-0f24-4034-a43a-1360187d0181" /><div align="center">
+/><div align="center">
 
   <img src="https://github.com/user-attachments/assets/85ba71e0-5154-41fb-8144-d4f413031cb0" alt="Nuvio" width="500" />
   <br />
