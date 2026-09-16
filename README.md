@@ -156,7 +156,7 @@
 - [AIOmetadata](https://aiometadata.forthewizards.uk) - `Metadata completo para configurar catálogos, APIs, Idioma, Posters, Motor de Busca etc.`
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -169,7 +169,7 @@
 - [Google Gemini](https://aistudio.google.com/app/apikey) - `Necessário login.`
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
@@ -186,7 +186,7 @@
 - [Dramayo](https://dramayo.stream/configure) - `Catálogos Asiáticos.`
 
 <p align="right">
-  <a href="#">
+  <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
   </a>
 </p>
