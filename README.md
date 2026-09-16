@@ -14,43 +14,137 @@
 
 ## Sumário
 
-- 1.0 [Addons - Stremio/Nuvio](https://github.com/Facund3s/guianuviobr#addons---stremionuvio)
-- 1.1 [Metadados (Addon Principal do Aplicativo)](https://github.com/Facund3s/guianuviobr#mag-metadados-addon-principal-do-aplicativo)
-- 1.2 [APIs (metadados)](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-apis-metadados)
-- 1.3 [Catálogo](https://github.com/Facund3s/guianuviobr#mag-cat%C3%A1logo)
-- 1.4 [Serviço de Debrid](https://github.com/Facund3s/guianuviobr#mag-servi%C3%A7o-de-debrid)
-- 1.5 [Debrid Search](https://github.com/Facund3s/guianuviobr#mag-debrid-search)
-- 1.6 [Coleções](https://github.com/Facund3s/guianuviobr#mag-cole%C3%A7%C3%B5es)
-- 1.7 [Configuração de Posters](https://github.com/Facund3s/guianuviobr#mag-configura%C3%A7%C3%A3o-de-posters)
-- 1.8 [Gerenciador de contas nuvio/stremio](https://github.com/Facund3s/guianuviobr#mag-gerenciador-de-contas-nuviostremio)
-- 1.9 [Legendas](https://github.com/Facund3s/guianuviobr#mag-legendas)
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#addons---stremionuvio">
+    <img src="https://img.shields.io/badge/1.0-Addons-blue" alt="Addons">
+  </a>
+</p>
 
-<br>
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-metadados-addon-principal-do-aplicativo">
+    <img src="https://img.shields.io/badge/1.1-Metadados-blue" alt="Metadados">
+  </a>
+</p>
 
-- 2.0 [Info](https://github.com/Facund3s/guianuviobr#info)
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-apis-metadados">
+    <img src="https://img.shields.io/badge/1.2-APIs-blue" alt="APIs">
+  </a>
+</p>
 
-<br>
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-cat%C3%A1logo">
+    <img src="https://img.shields.io/badge/1.3-Catalogo-blue" alt="Catalogo">
+  </a>
+</p>
 
-- 3.0 [Dicas](https://github.com/Facund3s/guianuviobr#dicas)
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-servi%C3%A7o-de-debrid">
+    <img src="https://img.shields.io/badge/1.4-Servico_de_Debrid-blue" alt="Debrid">
+  </a>
+</p>
 
-<br>
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-debrid-search">
+    <img src="https://img.shields.io/badge/1.5-Debrid_Search-blue" alt="Debrid Search">
+  </a>
+</p>
 
-- 4.0 [Tutoriais](https://github.com/Facund3s/guianuviobr#tutoriais)
-- 4.1 [Como alterar o DNS](https://github.com/Facund3s/guianuviobr#mag-como-alterar-o-dns-na-configura%C3%A7%C3%B5es-de-rede-videos)
-- 4.2 [Avaliações na página do conteúdo](https://github.com/Facund3s/guianuviobr#mag-avalia%C3%A7%C3%B5es-na-p%C3%A1gina-do-conte%C3%BAdo)
-- 4.3 [Insígnias](https://github.com/Facund3s/guianuviobr#mag-ins%C3%ADgnias)
-- 4.4 [Avatar Personalizado](https://github.com/Facund3s/guianuviobr#mag-avatar-personalizado)
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-cole%C3%A7%C3%B5es">
+    <img src="https://img.shields.io/badge/1.6-Coleções-blue" alt="Colecoes">
+  </a>
+</p>
 
-<br>
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-configura%C3%A7%C3%A3o-de-posters">
+    <img src="https://img.shields.io/badge/1.7-Configuração_de_Posters-blue" alt="Posters">
+  </a>
+</p>
 
-- 5.0 [VPN Grátis](https://github.com/Facund3s/guianuviobr#vpn-gr%C3%A1tis)
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-gerenciador-de-contas-nuviostremio">
+    <img src="https://img.shields.io/badge/1.8-Gerenciador_de_Contas-blue" alt="Gerenciador">
+  </a>
+</p>
 
-<br>
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-legendas">
+    <img src="https://img.shields.io/badge/1.9-Legendas-blue" alt="Legendas">
+  </a>
+</p>
 
-- 6.0 [Aplicativos](https://github.com/Facund3s/guianuviobr#aplicativos)
-- 6.1 [Nuvio - Android Tv via Downloader](https://github.com/Facund3s/guianuviobr#tv-nuvio---android-tv-via-downloader---outras-vers%C3%B5es)
-- 6.2 [Nuvio - Desktop](https://github.com/Facund3s/guianuviobr#tv-nuvio---desktop)
-- 6.3 [Nuvio - Android Mobile](https://github.com/Facund3s/guianuviobr#tv-nuvio---android-mobile)
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#info">
+    <img src="https://img.shields.io/badge/2.0-Info-green" alt="Info">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#dicas">
+    <img src="https://img.shields.io/badge/3.0-Dicas-blue" alt="Dicas">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#tutoriais">
+    <img src="https://img.shields.io/badge/4.0-Tutoriais-green" alt="Tutoriais">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-como-alterar-o-dns-na-configura%C3%A7%C3%B5es-de-rede-videos">
+    <img src="https://img.shields.io/badge/4.1-Como_alterar_o_DNS-green" alt="DNS">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-avalia%C3%A7%C3%B5es-na-p%C3%A1gina-do-conte%C3%BAdo">
+    <img src="https://img.shields.io/badge/4.2-Avaliações_na_pagina-green" alt="Avaliacoes">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-ins%C3%ADgnias">
+    <img src="https://img.shields.io/badge/4.3-Insígnias-green" alt="Insígnias">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#mag-avatar-personalizado">
+    <img src="https://img.shields.io/badge/4.4-Avatar_Personalizado-green" alt="Avatar">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#vpn-gr%C3%A1tis">
+    <img src="https://img.shields.io/badge/5.0-VPN_Gratis-blue" alt="VPN">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#aplicativos">
+    <img src="https://img.shields.io/badge/6.0-Aplicativos-green" alt="Aplicativos">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#tv-nuvio---android-tv-via-downloader---outras-vers%C3%B5es">
+    <img src="https://img.shields.io/badge/6.1-Nuvio_Android_TV-green" alt="Nuvio TV">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#tv-nuvio---desktop">
+    <img src="https://img.shields.io/badge/6.2-Nuvio_Desktop-green" alt="Nuvio Desktop">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr#tv-nuvio---android-mobile">
+    <img src="https://img.shields.io/badge/6.3-Nuvio_Android_Mobile-green" alt="Nuvio Mobile">
+  </a>
+</p>
 
 ---
 
@@ -311,3 +405,7 @@ Versão 0.9.3 beta
 - Bruce
 - Marechau
 
+
+<a href="https://www.themoviedb.org/settings/api">
+  <img src="https://img.shields.io/badge/TMDB-API-01b4e4?logo=themoviedb&logoColor=white" alt="TMDB API MDB API MDB API">
+</a>
