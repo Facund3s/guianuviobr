@@ -34,6 +34,7 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 - 4.1 [Como alterar o DNS](https://github.com/Facund3s/guianuviobr#mag-como-alterar-o-dns-na-configura%C3%A7%C3%B5es-de-rede-videos)
 - 4.2 [Avaliações na página do conteúdo](https://github.com/Facund3s/guianuviobr#mag-avalia%C3%A7%C3%B5es-na-p%C3%A1gina-do-conte%C3%BAdo)
 - 4.3 [Insígnias](https://github.com/Facund3s/guianuviobr#mag-ins%C3%ADgnias)
+- 4.4 [Avatar Personalizado](https://github.com/Facund3s/guianuviobr#mag-avatar-personalizado)
 
 <br>
 
