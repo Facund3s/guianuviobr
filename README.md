@@ -161,11 +161,9 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 
 ### :mag: Avatar Personalizado
 
-<div align="center">
-
 <table>
   <tr>
-    <td><img width="1011" height="386" alt="image" src="https://github.com/user-attachments/assets/111fc70b-b228-4829-9b53-271b0273366b" /></td>
+    <td><img width="758" height="290" alt="image" src="https://github.com/user-attachments/assets/111fc70b-b228-4829-9b53-271b0273366b" /></td>
 
   </tr>
 </table>
