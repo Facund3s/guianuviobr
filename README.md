@@ -394,6 +394,11 @@ Versão 0.9.3 beta
 - app-full-armeabi-v7a-release.apk -*** Código Downloader:*** `2945050`
 - app-full-universal-release.apk - ***Código Downloader:*** `7116834`
 
+Versão 0.9.4 beta
+- app-full-arm64-v8a-release.apk - ***Código Downloader:*** `3864617`
+- app-full-armeabi-v7a-release.apk - ***Código Downloader:*** `7814150`
+- app-full-universal-release.apk - ***Código Downloader:*** `2955928`
+
 ### :tv: Nuvio - [Desktop](https://github.com/NuvioMedia/NuvioDesktop/releases)
 ### :tv: Nuvio - [Android Mobile](https://github.com/NuvioMedia/NuvioMobile/releases)
 
