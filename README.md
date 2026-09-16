@@ -212,7 +212,7 @@ Versão 0.9.3 beta
 ### :tv: Nuvio - [Desktop](https://github.com/NuvioMedia/NuvioDesktop/releases)
 ### :tv: Nuvio - [Android Mobile](https://github.com/NuvioMedia/NuvioMobile/releases)
 
-## Contribuições & Agradecimentos
+## 🫡 Contribuições & Agradecimentos
 - Bruce
 - Marechau
 
