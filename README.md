@@ -159,7 +159,7 @@ Essa página é o nosso pequeno levantamento de addons que estão disponíveis e
 - [Xperience APP](https://xperience-app.com/) - `Insígnias nos conteúdos (precisa de cadastro).`
 - Configure do seu jeito no site e após finalizar gere a URL. Após isso, abra o Nuvio e siga o caminho Configurações/Layout/Streams/URLs de emblemas Fusion e cole a url que você copiou. 
 
-### Avatar Personalizado
+### :mag: Avatar Personalizado
 
 <div align="center">
 
