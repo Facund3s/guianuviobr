@@ -406,8 +406,3 @@ Versão 0.9.3 beta
 ## 🫡 Contribuições & Agradecimentos
 - Bruce
 - Marechau
-
-
-<a href="https://www.themoviedb.org/settings/api">
-  <img src="https://img.shields.io/badge/TMDB-API-01b4e4?logo=themoviedb&logoColor=white" alt="TMDB API MDB API MDB API">
-</a>
