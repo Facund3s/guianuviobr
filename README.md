@@ -19,7 +19,7 @@
 - 1.2 [APIs (metadados)](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-apis-metadados)
 - 1.3 [Catálogo](https://github.com/Facund3s/guianuviobr#mag-cat%C3%A1logo)
 - 1.4 [Serviço de Debrid](https://github.com/Facund3s/guianuviobr#mag-servi%C3%A7o-de-debrid)
-- 1.5 [Debrid Search](
+- 1.5 [Debrid Search](https://github.com/Facund3s/guianuviobr#mag-debrid-search)
 - 1.6 [Coleções](https://github.com/Facund3s/guianuviobr#mag-cole%C3%A7%C3%B5es)
 - 1.7 [Configuração de Posters](https://github.com/Facund3s/guianuviobr#mag-configura%C3%A7%C3%A3o-de-posters)
 - 1.8 [Gerenciador de contas nuvio/stremio](https://github.com/Facund3s/guianuviobr#mag-gerenciador-de-contas-nuviostremio)
