@@ -1,4 +1,4 @@
-<div align="center">
+<img width="906" height="120" alt="image" src="https://github.com/user-attachments/assets/d583b660-7e61-4eac-9bc8-24f01477492c" /><div align="center">
 
   <img src="https://github.com/user-attachments/assets/85ba71e0-5154-41fb-8144-d4f413031cb0" alt="Nuvio" width="500" />
   <br />
@@ -19,10 +19,11 @@
 - 1.2 [APIs (metadados)](https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-apis-metadados)
 - 1.3 [Catálogo](https://github.com/Facund3s/guianuviobr#mag-cat%C3%A1logo)
 - 1.4 [Serviço de Debrid](https://github.com/Facund3s/guianuviobr#mag-servi%C3%A7o-de-debrid)
-- 1.5 [Coleções](https://github.com/Facund3s/guianuviobr#mag-cole%C3%A7%C3%B5es)
-- 1.6 [Configuração de Posters](https://github.com/Facund3s/guianuviobr#mag-configura%C3%A7%C3%A3o-de-posters)
-- 1.7 [Gerenciador de contas nuvio/stremio](https://github.com/Facund3s/guianuviobr#mag-gerenciador-de-contas-nuviostremio)
-- 1.8 [Legendas](https://github.com/Facund3s/guianuviobr#mag-legendas)
+- 1.5 [Debrid Search](
+- 1.6 [Coleções](https://github.com/Facund3s/guianuviobr#mag-cole%C3%A7%C3%B5es)
+- 1.7 [Configuração de Posters](https://github.com/Facund3s/guianuviobr#mag-configura%C3%A7%C3%A3o-de-posters)
+- 1.8 [Gerenciador de contas nuvio/stremio](https://github.com/Facund3s/guianuviobr#mag-gerenciador-de-contas-nuviostremio)
+- 1.9 [Legendas](https://github.com/Facund3s/guianuviobr#mag-legendas)
 
 <br>
 
@@ -82,6 +83,10 @@
 - [Easy Debrid](https://easydebrid.com/) - `Debrid.`
 - [All Debrid](https://alldebrid.com/) - `Debrid.`
 - [Debrid Link](https://debrid-link.com/) - `Debrid.`
+
+### :mag: Debrid Search
+- [Intelligent Debrid Search¹](https://intell-debridsearch.nepiraw.com/configure) - `Buscador de Torrents e Downloads no debrid.`
+- [Intelligent Debrid Search²](https://intell-debridsearch.vercel.app/configure) - `Buscador de Torrents e Downloads no debrid.`
 
 ### :mag: Coleções
 - [DuckGuides](https://duckkota.gitlab.io/guides/collections/) -  `Acervo de Coleções com capa.`
