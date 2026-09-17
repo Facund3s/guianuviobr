@@ -17,110 +17,110 @@
 ## Sumário
 
 <p align="left">
+  <a href="https://github.com/Facund3s/guianuviobr/blob/main/Tutoriais.md">
+    <img src="https://img.shields.io/badge/1.0-Tutoriais-green" alt="Tutoriais">
+  </a>
+</p>
+
+<p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#addons---stremionuvio">
-    <img src="https://img.shields.io/badge/1.0-Addons-blue" alt="Addons">
+    <img src="https://img.shields.io/badge/2.0-Addons-blue" alt="Addons">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#mag-metadados-addon-principal-do-aplicativo">
-    <img src="https://img.shields.io/badge/1.1-Metadados-blue" alt="Metadados">
+    <img src="https://img.shields.io/badge/2.1-Metadados-blue" alt="Metadados">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr/edit/main/README.md#mag-apis-metadados">
-    <img src="https://img.shields.io/badge/1.2-APIs-blue" alt="APIs">
+    <img src="https://img.shields.io/badge/2.2-APIs-blue" alt="APIs">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#mag-cat%C3%A1logo">
-    <img src="https://img.shields.io/badge/1.3-Catalogo-blue" alt="Catalogo">
+    <img src="https://img.shields.io/badge/2.3-Catalogo-blue" alt="Catalogo">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#mag-servi%C3%A7o-de-debrid">
-    <img src="https://img.shields.io/badge/1.4-Servico_de_Debrid-blue" alt="Debrid">
+    <img src="https://img.shields.io/badge/2.4-Servico_de_Debrid-blue" alt="Debrid">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#mag-debrid-search">
-    <img src="https://img.shields.io/badge/1.5-Debrid_Search-blue" alt="Debrid Search">
+    <img src="https://img.shields.io/badge/2.5-Debrid_Search-blue" alt="Debrid Search">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#mag-cole%C3%A7%C3%B5es">
-    <img src="https://img.shields.io/badge/1.6-Coleções-blue" alt="Colecoes">
+    <img src="https://img.shields.io/badge/2.6-Coleções-blue" alt="Colecoes">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#mag-configura%C3%A7%C3%A3o-de-posters">
-    <img src="https://img.shields.io/badge/1.7-Configuração_de_Posters-blue" alt="Posters">
+    <img src="https://img.shields.io/badge/2.7-Configuração_de_Posters-blue" alt="Posters">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#mag-gerenciador-de-contas-nuviostremio">
-    <img src="https://img.shields.io/badge/1.8-Gerenciador_de_Contas-blue" alt="Gerenciador">
+    <img src="https://img.shields.io/badge/2.8-Gerenciador_de_Contas-blue" alt="Gerenciador">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#mag-legendas">
-    <img src="https://img.shields.io/badge/1.9-Legendas-blue" alt="Legendas">
+    <img src="https://img.shields.io/badge/2.9-Legendas-blue" alt="Legendas">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#info">
-    <img src="https://img.shields.io/badge/2.0-Info-green" alt="Info">
+    <img src="https://img.shields.io/badge/3.0-Info-green" alt="Info">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#dicas">
-    <img src="https://img.shields.io/badge/3.0-Dicas-blue" alt="Dicas">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Facund3s/guianuviobr/blob/main/Tutoriais.md">
-    <img src="https://img.shields.io/badge/4.0-Tutoriais-green" alt="Tutoriais">
+    <img src="https://img.shields.io/badge/4.0-Dicas-blue" alt="Dicas">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#vpn-gr%C3%A1tis">
-    <img src="https://img.shields.io/badge/5.0-VPN_Gratis-blue" alt="VPN">
+    <img src="https://img.shields.io/badge/5.0-VPN_Gratis-green" alt="VPN">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#aplicativos">
-    <img src="https://img.shields.io/badge/6.0-Aplicativos-green" alt="Aplicativos">
+    <img src="https://img.shields.io/badge/6.0-Aplicativos-blue" alt="Aplicativos">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#tv-nuvio---android-tv-via-downloader---outras-vers%C3%B5es">
-    <img src="https://img.shields.io/badge/6.1-Nuvio_Android_TV-green" alt="Nuvio TV">
+    <img src="https://img.shields.io/badge/6.1-Nuvio_Android_TV-blue" alt="Nuvio TV">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#tv-nuvio---desktop">
-    <img src="https://img.shields.io/badge/6.2-Nuvio_Desktop-green" alt="Nuvio Desktop">
+    <img src="https://img.shields.io/badge/6.2-Nuvio_Desktop-blue" alt="Nuvio Desktop">
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/Facund3s/guianuviobr#tv-nuvio---android-mobile">
-    <img src="https://img.shields.io/badge/6.3-Nuvio_Android_Mobile-green" alt="Nuvio Mobile">
+    <img src="https://img.shields.io/badge/6.3-Nuvio_Android_Mobile-blue" alt="Nuvio Mobile">
   </a>
 </p>
 
