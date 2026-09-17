@@ -106,7 +106,7 @@
 - Passo 1: Adicione a API do RPDB no menu _**INTEGRATIONS**_ do AIOMetadata: `t0-free-rpdb.`
 - Passo 2: Abra o AIOMetadata e procure pela aba _**ART PROVIDERS**_ e localize a opção _**Art URL Overrides**_, em _**Rating Poster Provider**_ marque a opção RPDB e marque também a opção abaixo _**Proxy Rating & Custom Art**_.
 
-### :mag: Poster com notas (Easy Ratings+AIOMetadata) Pt-br
+### :mag: Posters com notas (Easy Ratings+AIOMetadata) Pt-br
 
 <table>
   <tr>
