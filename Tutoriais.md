@@ -11,7 +11,7 @@
 
 ## :mag: Configure seu AIOMetadata (Minha Configuração)
 
-- Primeiro Passo: Abra o [AIOMetadata](https://aiomanager-beta.stremio.ru/) e localize a opção _**SKIP**_ para pular a configuração rápida.
+- Primeiro Passo: Abra o [AIOMetadata](https://aiometadata.forthewizards.uk/) e localize a opção _**SKIP**_ para pular a configuração rápida.
 
 <table>
   <tr>
