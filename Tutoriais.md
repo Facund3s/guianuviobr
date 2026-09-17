@@ -133,6 +133,12 @@
 - Quarto Passo: Volte no AIOMetadata, vá em _**ART PROVIDERS**_ e em _**Rating Poster Provider**_ mude para _**Custom Art URLs**_ e marque a opção abaixo _**Proxy Rating & Custom Art**_.
 - Quinto Passo: Logo abaixo você irá encontrar _**URL Patterns**_, volte no Easy Ratings, copie cada uma das urls e cole nos locais correspondentes. Ao finalizar a configuração salve tudo e estará pronto.
 
+<p align="right">
+  <a href="#topo">
+    <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
+  </a>
+</p>
+
 ## 🫡 Contribuições & Agradecimentos
 - Bruce
 - Marechau
