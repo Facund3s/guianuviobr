@@ -90,7 +90,7 @@
   </a>
 </p>
 
-## :mag: Posters com notas (RPDB+Aiometadata) English
+## :mag: Posters com notas (RPDB+AIOMetadata) English
 
 <table>
   <tr>
