@@ -9,7 +9,7 @@
 
 <h1 align="center">Tutoriais</h1>
 
-<h3 align="center"><i><b>xxxxxxx xxxx xxxx xxxxxxxxx xxxxx</b></i></h3>
+<h3 align="center"><i><b>⌛ Em construção</b></i></h3>
 
 ## :mag: Como alterar o DNS na configurações de rede (videos).
 
