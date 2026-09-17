@@ -89,32 +89,8 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/Facund3s/guianuviobr#tutoriais">
+  <a href="https://github.com/Facund3s/guianuviobr/blob/main/Tutoriais.md">
     <img src="https://img.shields.io/badge/4.0-Tutoriais-green" alt="Tutoriais">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Facund3s/guianuviobr#mag-como-alterar-o-dns-na-configura%C3%A7%C3%B5es-de-rede-videos">
-    <img src="https://img.shields.io/badge/4.1-Como_alterar_o_DNS-green" alt="DNS">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Facund3s/guianuviobr#mag-avalia%C3%A7%C3%B5es-na-p%C3%A1gina-do-conte%C3%BAdo">
-    <img src="https://img.shields.io/badge/4.2-Avaliações_na_pagina-green" alt="Avaliacoes">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Facund3s/guianuviobr#mag-ins%C3%ADgnias">
-    <img src="https://img.shields.io/badge/4.3-Insígnias-green" alt="Insígnias">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Facund3s/guianuviobr#mag-avatar-personalizado">
-    <img src="https://img.shields.io/badge/4.4-Avatar_Personalizado-green" alt="Avatar">
   </a>
 </p>
 
@@ -274,89 +250,6 @@
 - Deixe o add-on de metadata na primeira posição. 
 - Não esqueça a senha de configuração, você irá precisar dela para fazer qualquer edição na configuração do aiometadata.
 - Se você usa o Nuvio em uma ***Android Tv*** ou ***Celular Android***, use sempre a versão do [Github](https://github.com/NuvioMedia), ele irá sempre atualizar mais rápido que a playstore. 
-
-<p align="right">
-  <a href="#topo">
-    <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
-  </a>
-</p>
-
-## Tutoriais
-
-### :mag: Como alterar o DNS na configurações de rede (videos).
-
-- :tv: Android - [Clique aqui](https://www.youtube.com/shorts/vJz3VFZUStc)
-- :tv: Samsung - [Clique aqui](https://www.youtube.com/watch?v=qlSRNVQgkIU)
-- :tv: WebOS (LG) - [Clique aqui](https://www.youtube.com/watch?v=RKetQ7za7F4)
-- :computer: Windows 11 - [Clique aqui](https://www.youtube.com/watch?v=rZof44C1hVw)
-- 📱 Android Mobile - [Clique aqui](https://www.youtube.com/watch?v=Fbnedq7vcTU&t=10s)
-- 📱 Android Mobile (DNS Privado) - [Clique aqui](https://www.youtube.com/watch?v=gczuoOkj8d4)
-- 📱 iOs (Wi-Fi) - [Clique aqui](https://www.youtube.com/watch?v=F8RkiOKNDj4)
-- 📱 iOs (Redes Móveis) - [Baixe o App](https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)
-
-<p align="right">
-  <a href="#topo">
-    <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
-  </a>
-</p>
-
-### :mag: Avaliações na página do conteúdo
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><img width="517" height="272" alt="image" src="https://github.com/user-attachments/assets/e752b183-4ffd-4616-af8d-b5884a6e841c" /></td>
-    <td><img width="517" height="272" alt="image" src="https://github.com/user-attachments/assets/bad6d948-b40f-47e8-a397-0bbb9f028c7c" /></td>
-
-  </tr>
-</table>
-
-</div>
-
-- No aplicativo do Nuvio, siga o caminho Configurações/Geral/Integrações/Classificações do MDBList coloque a sua api do MDBList e ative a opção. Pronto, está feito.
-- Crie sua api MDBList - [Clique aqui](https://mdblist.com/preferences/#api_key_uid)
-
-<p align="right">
-  <a href="#topo">
-    <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
-  </a>
-</p>
-
-### :mag: Insígnias 
-
-<table>
-  <tr>
-    <td><img width="772" height="205" alt="image" src="https://github.com/user-attachments/assets/20b92985-ebe8-4923-aa49-4142122f56eb" /></td>
-
-  </tr>
-</table>
-
-</div>
-
-- [Badger](https://nintle.github.io/Badger/) - `Insígnias.`
-- [Xperience APP](https://xperience-app.com/) - `Insígnias (precisa de cadastro).`
-- Configure do seu jeito no site e após finalizar gere a URL. Após isso, abra o Nuvio e siga o caminho Configurações/Layout/Streams/URLs de emblemas Fusion e cole a url que você copiou.
-
-<p align="right">
-  <a href="#topo">
-    <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
-  </a>
-</p>
-
-### :mag: Avatar Personalizado
-
-<table>
-  <tr>
-    <td><img width="758" height="290" alt="image" src="https://github.com/user-attachments/assets/111fc70b-b228-4829-9b53-271b0273366b" /></td>
-
-  </tr>
-</table>
-
-</div>
-
-- [Xperience APP](https://xperience-app.com/) - `Acervo com milhares de Avatares (precisa de cadastro).`
-- Copie o link do avatar que você escolheu e no nuvio abra as configurações do seu perfil e cole a url que você copiou em _**Custom avatar URL**_ e salve.
 
 <p align="right">
   <a href="#topo">
