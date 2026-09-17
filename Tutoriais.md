@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/5accdb1b-b386-4fe5-b66f-4f243375d39c" alt="Nuvio" width="550" />
+  <img src="https://github.com/user-attachments/assets/25a5f09e-9f1f-417d-9e72-006805a0abe7" alt="Nuvio" width="550" />
 
   <br />
 </div>
