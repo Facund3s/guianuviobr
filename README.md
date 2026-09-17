@@ -391,7 +391,7 @@ Versão 0.9.2 beta
 
 Versão 0.9.3 beta
 - app-full-arm64-v8a-release.apk - ***Código Downloader:*** `4160584`
-- app-full-armeabi-v7a-release.apk -*** Código Downloader:*** `2945050`
+- app-full-armeabi-v7a-release.apk - ***Código Downloader:*** `2945050`
 - app-full-universal-release.apk - ***Código Downloader:*** `7116834`
 
 Versão 0.9.4 beta
