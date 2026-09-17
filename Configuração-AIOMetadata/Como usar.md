@@ -11,7 +11,7 @@
 
 2️⃣・Pule a configuração rápida, se o site tiver em inglês clique em SKIP ao lado do seletor de idioma.
 
-3️⃣・Navegue até o menu de configurações/configuration e localize a opção importar _**Configuration URL**_.
+3️⃣・Navegue até o menu de configurações/configuration e localize a opção _**Configuration URL**_.
 
 4️⃣・Copie o link a seguir e cole lá no AIOMetadata como explica o item anterior. [Clique aqui e copie o link](https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Configura%C3%A7%C3%A3o-AIOMetadata/Configura%C3%A7%C3%A3o.json)
 
