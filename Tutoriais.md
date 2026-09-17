@@ -142,3 +142,5 @@
 ## 🫡 Contribuições & Agradecimentos
 - Bruce
 - Marechau
+- Scott - B Cine
+
