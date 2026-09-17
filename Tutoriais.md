@@ -7,8 +7,6 @@
   <br />
 </div>
 
-<h1 align="center">Tutoriais</h1>
-
 <h3 align="center"><i><b>⌛ Em construção</b></i></h3>
 
 ## :mag: Como alterar o DNS na configurações de rede (videos).
