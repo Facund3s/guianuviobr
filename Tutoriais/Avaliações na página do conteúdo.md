@@ -7,6 +7,11 @@
   <br />
 </div>
 
+<p align="center">
+  <a href="https://discord.gg/WAGhvXYQD"><img src="https://img.shields.io/badge/Comunidade_no-Discord-blue?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://github.com/Facund3s/guianuviobr"><img src="https://img.shields.io/badge/Nosso-Guia-purple?logo=github&logoColor=white" alt="Tutoriais"></a>
+</p>
+
 ## :mag: Avaliações na página do conteúdo
 
 <div align="center">
