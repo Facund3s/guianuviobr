@@ -11,8 +11,14 @@
 
 <h3 align="center"><i><b>Essa página é o nosso levantamento de addons que estão disponíveis em nosso idioma e também contém algumas informações que irão ajudar quem está começando a usar o Stremio/Nuvio.</b></i></h3>
 
-
----
+<p align="center">
+  <a href="https://discord.gg/WAGhvXYQD">
+    <img src="https://img.shields.io/badge/Comunidade_no-Discord-blue" alt="Discord">
+  </a>
+  <a href="https://github.com/Facund3s/guianuviobr/tree/main/Tutoriais">
+    <img src="https://img.shields.io/badge/Nossos-Tutoriais-purple" alt="Tutoriais">
+  </a>
+</p>
 
 ## Sumário
 
