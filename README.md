@@ -17,7 +17,7 @@
 ## Sumário
 
 <p align="left">
-  <a href="https://github.com/Facund3s/guianuviobr/blob/main/Tutoriais.md">
+  <a href="https://github.com/Facund3s/guianuviobr/tree/main/Tutoriais">
     <img src="https://img.shields.io/badge/1.0-Tutoriais-green" alt="Tutoriais">
   </a>
 </p>
