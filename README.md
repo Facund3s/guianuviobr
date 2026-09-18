@@ -304,3 +304,4 @@ Versão 0.9.4 beta
 ## 🫡 Contribuições & Agradecimentos
 - Bruce
 - Marechau
+- Scott - B Cine
