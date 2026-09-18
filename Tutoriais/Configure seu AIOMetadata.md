@@ -20,7 +20,7 @@
 
 </div>
 
-- Segundo Passo: Navegue até o menu de configurações/configuration e localize a opção _**Import & Export**_ e abaixo a opção _**Configuration URL**_.
+- Segundo Passo: Navegue até o menu de _**Configuration**_ e localize a opção _**Import & Export**_ e abaixo a opção _**Configuration URL**_.
 
 <table>
   <tr>
