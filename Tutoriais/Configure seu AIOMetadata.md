@@ -7,6 +7,11 @@
   <br />
 </div>
 
+<p align="center">
+  <a href="https://discord.com/invite/YvCqRYe9gw"><img src="https://img.shields.io/badge/Comunidade_no-Discord-blue?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://github.com/Facund3s/guianuviobr"><img src="https://img.shields.io/badge/Nosso-Guia-purple?logo=github&logoColor=white" alt="Tutoriais"></a>
+</p>
+
 ## :mag: Configure seu AIOMetadata (Minha Configuração)
 
 - Primeiro Passo: Abra o [AIOMetadata](https://aiometadata.forthewizards.uk/) e localize a opção _**SKIP**_ para pular a configuração rápida.
