@@ -157,6 +157,7 @@
 - [101Catalogs](https://config.101catalogs.xyz) - `Maior acervo de catálogos.`
 - [TMDB](https://94c8cb9f702d-tmdb-addon.baby-beamup.club/configure) - `Catálogos do TMDB.`
 - [Streaming Catalogs Plus](https://scplus.duckdns.org/configure) - `Catálogos em Geral.`
+- [BingCat](https://bingecat.com/) - `Catálogos em Geral com ia.`
 - [OminiCatalog](https://5cfe2edf73d5-omnicatalogs.baby-beamup.club/configure) - `Catálogos em Geral.`
 - [Wrestling & UFC](https://wrestling-ufc-eventos1.vercel.app/configure) - `Catálogos de Lutas.`
 - [Dramayo](https://dramayo.stream/configure) - `Catálogos Asiáticos.`
