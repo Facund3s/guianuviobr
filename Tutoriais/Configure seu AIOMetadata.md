@@ -31,6 +31,6 @@
 
 </div>
 
-- Terceiro Passo: Copie o link a seguir e cole lá no AIOMetadata onde mostra a imagem acima. [Clique aqui com o botão direito e copie o link](https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Configura%C3%A7%C3%A3o-AIOMetadata/Configura%C3%A7%C3%A3o.json)
+- Terceiro Passo: Copie o link a seguir e cole lá no AIOMetadata onde mostra a imagem acima. [Clique aqui com o botão direito e copie o link](https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Configura%C3%A7%C3%A3o%20AIOMetadata/Configura%C3%A7%C3%A3o.json)
 - Quarto Passo: Adicione sua api do TMDB no menu _**Integrações/Integrations**_, ela é necessária. Crie a sua [aqui](https://www.themoviedb.org/settings/api).
 - Quinto Passo: Crie sua senha da configuração, salve, copie o link gerado e adicione no menu de addons do Nuvio/Stremio.
