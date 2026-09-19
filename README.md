@@ -210,6 +210,24 @@ Versão 0.9.4 beta
 ### :tv: Nuvio - [Desktop](https://github.com/NuvioMedia/NuvioDesktop/releases)
 ### :tv: Nuvio - [Android Mobile](https://github.com/NuvioMedia/NuvioMobile/releases)
 
+## :mag: Como descobrir a arquitetura da sua TV
+
+- Usando um aplicativo de diagnóstico (mais fácil)
+Instale um app como o AIDA64 direto na sua TV (pela Play Store ou sideload). É o método mais recomendado, pois mostra a arquitetura do processador de forma clara . Procure por "ABI" ou "Architecture" nas informações de CPU.
+
+- Pelas configurações da TV
+Navegue até Configurações → Sobre → Informações do dispositivo. Nem toda TV mostra isso, mas vale a pena tentar .
+══════════════════════════════════════════════════
+## :white_check_mark: Resumo
+
+- ***app-full-arm64-v8a-release.apk*** → O mais recomendado para TVs e boxes atuais. É para processadores ARM de 64 bits (praticamente todos os modelos lançados depois de 2018, como Mi Box S, Nvidia Shield TV Pro, Chromecast com Google TV, etc.).
+
+- ***app-full-armeabi-v7a-release.apk*** → Para processadores ARM de 32 bits (mais antigos). Serve para TVs e boxes mais velhas, tipo algumas Fire TV Stick de primeira geração e boxes com Android 5 ou 6.
+
+- ***app-full-universal-release.apk*** → É o "pacotão completo", com todas as arquiteturas juntas.
+Funciona em qualquer uma delas, mas ocupa bem mais espaço de armazenamento.
+══════════════════════════════════════════════════
+
 <p align="right">
   <a href="#topo">
     <img src="https://img.shields.io/badge/Voltar_ao_topo-⏫-blue?style=for-the-badge" alt="Voltar ao topo">
