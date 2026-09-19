@@ -217,7 +217,7 @@ Instale um app como o AIDA64 direto na sua TV (pela Play Store ou sideload). É 
 
 - Pelas configurações da TV
 Navegue até Configurações → Sobre → Informações do dispositivo. Nem toda TV mostra isso, mas vale a pena tentar .
-══════════════════════════════════════════════════
+
 ## :white_check_mark: Resumo
 
 - ***app-full-arm64-v8a-release.apk*** → O mais recomendado para TVs e boxes atuais. É para processadores ARM de 64 bits (praticamente todos os modelos lançados depois de 2018, como Mi Box S, Nvidia Shield TV Pro, Chromecast com Google TV, etc.).
@@ -226,7 +226,6 @@ Navegue até Configurações → Sobre → Informações do dispositivo. Nem tod
 
 - ***app-full-universal-release.apk*** → É o "pacotão completo", com todas as arquiteturas juntas.
 Funciona em qualquer uma delas, mas ocupa bem mais espaço de armazenamento.
-══════════════════════════════════════════════════
 
 <p align="right">
   <a href="#topo">
