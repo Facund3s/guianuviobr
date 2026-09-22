@@ -1,6 +1,6 @@
 {
   "version": "2.17.2",
-  "exportedAt": "2026-09-22T02:02:42.827Z",
+  "exportedAt": "2026-09-22T02:04:46.069Z",
   "config": {
     "language": "pt-BR",
     "addonName": "AIOMetadata - Config Facund3s",
@@ -1032,7 +1032,7 @@
       "hlu",
       "gop"
     ],
-    "customPosterUrlPattern": "https://pictorium.duckdns.org/api/poster/{type}/{imdb_id}?u=d7a104a3-1720-4651-83be-0f72774a91de&bg=0&by=0&sep=1&rsrc=imdb%2Ctmdb%2Cmetacritic%2Ctomatoes&pre=1&side=left&lang=pt&gradHeight=30&blur=20&tint=20&bf=50&bd=30&bs=colored&rs=default&tscale=100&tox=0&toy=0&gscale=100&gox=0&goy=0&qscale=100&qox=0&qoy=0&netscale=100&nox=0&noy=0&rv=bf29103bc5",
+    "customPosterUrlPattern": "",
     "customBackgroundUrlPattern": "",
     "customLandscapeUrlPattern": "",
     "customLogoUrlPattern": "",
