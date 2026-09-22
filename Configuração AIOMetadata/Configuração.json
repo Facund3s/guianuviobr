@@ -1,9 +1,9 @@
 {
   "version": "2.17.2",
-  "exportedAt": "2026-09-15T17:33:46.391Z",
+  "exportedAt": "2026-09-22T02:02:42.827Z",
   "config": {
     "language": "pt-BR",
-    "addonName": "AIOMetadata",
+    "addonName": "AIOMetadata - Config Facund3s",
     "includeAdult": false,
     "blurThumbs": false,
     "showPrefix": false,
@@ -72,7 +72,7 @@
       "customDescriptionBlurb": ""
     },
     "posterRatingProvider": "custom",
-    "usePosterProxy": false,
+    "usePosterProxy": true,
     "mdblistWatchTracking": true,
     "anilistWatchTracking": false,
     "malWatchTracking": false,
@@ -129,210 +129,6 @@
         "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
-        "displayType": "series"
-      },
-      {
-        "id": "streaming.nfx",
-        "name": "Netflix",
-        "type": "movie",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "movie"
-      },
-      {
-        "id": "streaming.nfx",
-        "name": "Netflix",
-        "type": "series",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "series"
-      },
-      {
-        "id": "streaming.dnp",
-        "name": "Disney Plus",
-        "type": "movie",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "movie"
-      },
-      {
-        "id": "streaming.dnp",
-        "name": "Disney Plus",
-        "type": "series",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "series"
-      },
-      {
-        "id": "streaming.hbm",
-        "name": "HBO Max",
-        "type": "movie",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "movie"
-      },
-      {
-        "id": "streaming.hbm",
-        "name": "HBO Max",
-        "type": "series",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "series"
-      },
-      {
-        "id": "streaming.amp",
-        "name": "Prime Video",
-        "type": "movie",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "movie"
-      },
-      {
-        "id": "streaming.amp",
-        "name": "Prime Video",
-        "type": "series",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "series"
-      },
-      {
-        "id": "streaming.atp",
-        "name": "Apple TV",
-        "type": "movie",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "movie"
-      },
-      {
-        "id": "streaming.atp",
-        "name": "Apple TV",
-        "type": "series",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "series"
-      },
-      {
-        "id": "streaming.pmp",
-        "name": "Paramount Plus",
-        "type": "movie",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "movie"
-      },
-      {
-        "id": "streaming.pmp",
-        "name": "Paramount Plus",
-        "type": "series",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "series"
-      },
-      {
-        "id": "streaming.cru",
-        "name": "Crunchyroll",
-        "type": "movie",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "movie"
-      },
-      {
-        "id": "streaming.cru",
-        "name": "Crunchyroll",
-        "type": "series",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "enableRatingPosters": true,
-        "randomizePerPage": false,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "series"
-      },
-      {
-        "id": "streaming.mub",
-        "name": "MUBI",
-        "type": "movie",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "sort": "popularity",
-        "sortDirection": "desc",
-        "displayType": "movie"
-      },
-      {
-        "id": "streaming.mub",
-        "name": "MUBI",
-        "type": "series",
-        "source": "streaming",
-        "enabled": true,
-        "showInHome": true,
-        "sort": "popularity",
-        "sortDirection": "desc",
         "displayType": "series"
       },
       {
@@ -407,6 +203,254 @@
             "kitsu"
           ]
         },
+        "displayType": "series"
+      },
+      {
+        "id": "streaming.nfx",
+        "name": "Netflix",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "movie"
+      },
+      {
+        "id": "streaming.nfx",
+        "name": "Netflix",
+        "type": "series",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "series"
+      },
+      {
+        "id": "streaming.dnp",
+        "name": "Disney Plus",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "movie"
+      },
+      {
+        "id": "streaming.dnp",
+        "name": "Disney Plus",
+        "type": "series",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "series"
+      },
+      {
+        "id": "streaming.hbm",
+        "name": "HBO Max",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "movie"
+      },
+      {
+        "id": "streaming.hbm",
+        "name": "HBO Max",
+        "type": "series",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "series"
+      },
+      {
+        "id": "streaming.amp",
+        "name": "Prime Video",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "movie"
+      },
+      {
+        "id": "streaming.amp",
+        "name": "Prime Video",
+        "type": "series",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "series"
+      },
+      {
+        "id": "streaming.atp",
+        "name": "Apple TV",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "movie"
+      },
+      {
+        "id": "streaming.atp",
+        "name": "Apple TV",
+        "type": "series",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "series"
+      },
+      {
+        "id": "streaming.pmp",
+        "name": "Paramount Plus",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "movie"
+      },
+      {
+        "id": "streaming.pmp",
+        "name": "Paramount Plus",
+        "type": "series",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "series"
+      },
+      {
+        "id": "streaming.hlu",
+        "name": "Hulu",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "movie"
+      },
+      {
+        "id": "streaming.hlu",
+        "name": "Hulu",
+        "type": "series",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "series"
+      },
+      {
+        "id": "streaming.gop",
+        "name": "Globoplay",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "movie"
+      },
+      {
+        "id": "streaming.gop",
+        "name": "Globoplay",
+        "type": "series",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "series"
+      },
+      {
+        "id": "streaming.cru",
+        "name": "Crunchyroll",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "movie"
+      },
+      {
+        "id": "streaming.cru",
+        "name": "Crunchyroll",
+        "type": "series",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "enableRatingPosters": true,
+        "randomizePerPage": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "series"
+      },
+      {
+        "id": "streaming.mub",
+        "name": "MUBI",
+        "type": "movie",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
+        "displayType": "movie"
+      },
+      {
+        "id": "streaming.mub",
+        "name": "MUBI",
+        "type": "series",
+        "source": "streaming",
+        "enabled": true,
+        "showInHome": false,
+        "sort": "popularity",
+        "sortDirection": "desc",
         "displayType": "series"
       },
       {
@@ -984,26 +1028,28 @@
       "atp",
       "pmp",
       "cru",
-      "mub"
+      "mub",
+      "hlu",
+      "gop"
     ],
-    "customPosterUrlPattern": "",
+    "customPosterUrlPattern": "https://pictorium.duckdns.org/api/poster/{type}/{imdb_id}?u=d7a104a3-1720-4651-83be-0f72774a91de&bg=0&by=0&sep=1&rsrc=imdb%2Ctmdb%2Cmetacritic%2Ctomatoes&pre=1&side=left&lang=pt&gradHeight=30&blur=20&tint=20&bf=50&bd=30&bs=colored&rs=default&tscale=100&tox=0&toy=0&gscale=100&gox=0&goy=0&qscale=100&qox=0&qoy=0&netscale=100&nox=0&noy=0&rv=bf29103bc5",
     "customBackgroundUrlPattern": "",
     "customLandscapeUrlPattern": "",
     "customLogoUrlPattern": "",
-    "lastModified": 1789401553301,
-    "configVersion": 1789401553302,
-    "configHash": "d4892049d46aa61d",
+    "lastModified": 1790006788334,
+    "configVersion": 1790006788335,
+    "configHash": "83b36d4f4fd70547",
     "customThumbnailUrlPattern": "",
     "collections": [
       {
         "kind": "collection",
         "id": "9fd0447d-2e7f-468d-ae4a-e552c6625f59",
-        "title": "Plataformas de Streaming",
+        "title": "Streaming",
         "hideTitle": false,
         "backdropImageUrl": "",
         "pinToTop": true,
         "focusGlowEnabled": true,
-        "viewMode": "ROWS",
+        "viewMode": "TABBED_GRID",
         "showAllTab": true,
         "folders": [
           {
@@ -1011,13 +1057,13 @@
             "title": "Netflix",
             "shape": "LANDSCAPE",
             "hideTitle": true,
-            "coverImageUrl": "https://i.postimg.cc/bYSwjtwD/Netflix.png",
+            "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Netflix%20-%20Fundo%20Gradiente%20-%20Logo%20Branco.png",
             "coverEmoji": "",
-            "focusGifUrl": "https://i.postimg.cc/SxN1VJvs/netflix.gif",
+            "focusGifUrl": "https://64.media.tumblr.com/9f93a9fc2e02fb466eb02a7d2247cb6e/a5b604d3737fc559-49/s500x750/403804744183922f6091d48139021fc3da22f786.gifv",
             "focusGifEnabled": true,
-            "heroBackdropUrl": "",
+            "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/213-netflix/backdrops/t2_flat_1080p.jpg",
             "heroVideoUrl": "",
-            "titleLogoUrl": "",
+            "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/213-netflix/logos/color/213_color_1.png",
             "sources": [
               {
                 "catalogId": "streaming.nfx_movie",
@@ -1040,11 +1086,11 @@
             "title": "Prime Video",
             "shape": "LANDSCAPE",
             "hideTitle": true,
-            "coverImageUrl": "https://i.postimg.cc/RCJZzHZH/Prime.png",
+            "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Prime%20Video%20-%20Fundo%20Gradiente%20-%20Logo%20Branco.png",
             "coverEmoji": "",
-            "focusGifUrl": "https://i.postimg.cc/kXK5THKG/primevideo.gif",
+            "focusGifUrl": "https://64.media.tumblr.com/5c5ed8bf948c5b3ca63a11544b94c720/55dbe5d6db4b66a5-bf/s500x750/d6686beaab57aa152f1b92a4562f757a1c522a2f.gifv",
             "focusGifEnabled": true,
-            "heroBackdropUrl": "",
+            "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/providers/9-amazon-prime-video/backdrops/t2_flat_1080p.jpg",
             "heroVideoUrl": "",
             "titleLogoUrl": "",
             "sources": [
@@ -1065,29 +1111,87 @@
             ]
           },
           {
+            "id": "folder-2e9e5868",
+            "title": "Hulu",
+            "shape": "LANDSCAPE",
+            "hideTitle": true,
+            "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Hulu%20-%20Fundo%20Verde%20-%20Logo%20Preto.png",
+            "coverEmoji": "",
+            "focusGifUrl": "https://64.media.tumblr.com/3a7015de27b570e421a0182a66d0a69b/0ec3a7379449b39d-2d/s1280x1920/962f0dcfa0a2458bd6bf923ff47776f2404bf43a.gifv",
+            "focusGifEnabled": true,
+            "heroBackdropUrl": "",
+            "heroVideoUrl": "",
+            "titleLogoUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Logos%20Originais/Hulu.png",
+            "sources": [
+              {
+                "catalogId": "streaming.hlu_movie",
+                "type": "movie",
+                "name": "Hulu",
+                "genre": null,
+                "baseType": "movie"
+              },
+              {
+                "catalogId": "streaming.hlu_series",
+                "type": "series",
+                "name": "Hulu",
+                "genre": null,
+                "baseType": "series"
+              }
+            ]
+          },
+          {
             "id": "2bfaab60-3fe7-4b09-a2dd-c1ae96f0afec",
             "title": "Disney+",
             "shape": "LANDSCAPE",
             "hideTitle": true,
-            "coverImageUrl": "https://i.postimg.cc/nV9htDhM/Disney.png",
+            "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Disney%20-%20Fundo%20Gradiente%20-%20Logo%20Branco.png",
             "coverEmoji": "",
-            "focusGifUrl": "https://i.postimg.cc/1RgXqXzQ/disneyplus.gif",
+            "focusGifUrl": "https://64.media.tumblr.com/ca6dc6d4e8a260c0c5f40c47c7334e57/eb71329b4dc482d5-50/s500x750/e9e82c5bca839be289f3d87863141ebf6d7fca28.gifv",
             "focusGifEnabled": true,
-            "heroBackdropUrl": "",
+            "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/providers/337-disney-plus/backdrops/t2_flat_1080p.jpg",
             "heroVideoUrl": "",
-            "titleLogoUrl": "",
+            "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/2739-disney/logos/color/2739_color_4.png",
             "sources": [
               {
                 "catalogId": "streaming.dnp_movie",
                 "type": "movie",
-                "name": "Disney+",
+                "name": "Disney Plus",
                 "genre": null,
                 "baseType": "movie"
               },
               {
                 "catalogId": "streaming.dnp_series",
                 "type": "series",
-                "name": "Disney+",
+                "name": "Disney Plus",
+                "genre": null,
+                "baseType": "series"
+              }
+            ]
+          },
+          {
+            "id": "folder-48a02549",
+            "title": "Globoplay",
+            "shape": "LANDSCAPE",
+            "hideTitle": true,
+            "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Globo%20Play%20-%20Fundo%20Gradiente.png",
+            "coverEmoji": "",
+            "focusGifUrl": "",
+            "focusGifEnabled": false,
+            "heroBackdropUrl": "",
+            "heroVideoUrl": "",
+            "titleLogoUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Logos%20Originais/Globoplay.png",
+            "sources": [
+              {
+                "catalogId": "streaming.gop_movie",
+                "type": "movie",
+                "name": "Globoplay",
+                "genre": null,
+                "baseType": "movie"
+              },
+              {
+                "catalogId": "streaming.gop_series",
+                "type": "series",
+                "name": "Globoplay",
                 "genre": null,
                 "baseType": "series"
               }
@@ -1098,11 +1202,11 @@
             "title": "HBO Max",
             "shape": "LANDSCAPE",
             "hideTitle": true,
-            "coverImageUrl": "https://i.postimg.cc/QC78gRzh/HBO-max.png",
+            "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/HBO%20-%20Fundo%20Gradiente%20-%20Logo%20Branca.png",
             "coverEmoji": "",
-            "focusGifUrl": "https://i.postimg.cc/K4XdKJ84/hbomax.gif",
+            "focusGifUrl": "https://64.media.tumblr.com/cca7a86d443a0bc88536a2ad6ce72aec/b495f88d5c1df470-a2/s640x960/4cb9b614191d17d02c946b4ca59548cd333c06fd.gifv",
             "focusGifEnabled": true,
-            "heroBackdropUrl": "",
+            "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/providers/1899-hbo-max/backdrops/t2_flat_1080p.jpg",
             "heroVideoUrl": "",
             "titleLogoUrl": "",
             "sources": [
@@ -1127,25 +1231,25 @@
             "title": "Apple TV+",
             "shape": "LANDSCAPE",
             "hideTitle": true,
-            "coverImageUrl": "https://i.postimg.cc/MHB60hLx/Apple-TV.png",
+            "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Apple%20-%20Fundo%20Branco%20-%20Logo%20Preto.png",
             "coverEmoji": "",
-            "focusGifUrl": "https://i.postimg.cc/sfBxhx2M/appletvalt.gif",
+            "focusGifUrl": "https://64.media.tumblr.com/d717319220a7d26bdaa88e72f6f76889/d9a7a808f588d8f4-63/s500x750/959b0ca57f53153b2ca9adaf414859e45e3734e6.gifv",
             "focusGifEnabled": true,
-            "heroBackdropUrl": "",
+            "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/2552-apple-tv/backdrops/t2_flat_1080p.jpg",
             "heroVideoUrl": "",
-            "titleLogoUrl": "",
+            "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/2552-apple-tv/logos/color/2552_color_1.png",
             "sources": [
               {
                 "catalogId": "streaming.atp_movie",
                 "type": "movie",
-                "name": "Apple TV+",
+                "name": "Apple TV",
                 "genre": null,
                 "baseType": "movie"
               },
               {
                 "catalogId": "streaming.atp_series",
                 "type": "series",
-                "name": "Apple TV+",
+                "name": "Apple TV",
                 "genre": null,
                 "baseType": "series"
               }
@@ -1156,11 +1260,11 @@
             "title": "Crunchyroll",
             "shape": "LANDSCAPE",
             "hideTitle": true,
-            "coverImageUrl": "https://i.postimg.cc/59Q2MC20/Crunchyroll.png",
+            "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Crunchyroll%20-%20Fundo%20Gradiente%20-%20Logo%20Branco.png",
             "coverEmoji": "",
-            "focusGifUrl": "https://i.postimg.cc/sxw1JQb6/crunchyroll.gif",
+            "focusGifUrl": "https://cdn.dribbble.com/userupload/42119533/file/original-3c24d9649543096949cc4262451501b7.gif",
             "focusGifEnabled": true,
-            "heroBackdropUrl": "",
+            "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/providers/283-crunchyroll/backdrops/t2_flat_1080p.jpg",
             "heroVideoUrl": "",
             "titleLogoUrl": "",
             "sources": [
@@ -1179,6 +1283,64 @@
                 "baseType": "series"
               }
             ]
+          },
+          {
+            "id": "folder-c5a9613c",
+            "title": "Paramount+",
+            "shape": "LANDSCAPE",
+            "hideTitle": true,
+            "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Paramount%20-%20Fundo%20Gradiente%20-%20Logo%20Branco.png",
+            "coverEmoji": "",
+            "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/refs/heads/main/art/streaming-services/paramount-plus/paramount-plus-hover.gif",
+            "focusGifEnabled": true,
+            "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/providers/2303-paramount-plus-premium/backdrops/t2_flat_1080p.jpg",
+            "heroVideoUrl": "",
+            "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/4330-paramount/logos/color/4330_color_2.png",
+            "sources": [
+              {
+                "catalogId": "streaming.pmp_movie",
+                "type": "movie",
+                "name": "Paramount Plus",
+                "genre": null,
+                "baseType": "movie"
+              },
+              {
+                "catalogId": "streaming.pmp_series",
+                "type": "series",
+                "name": "Paramount Plus",
+                "genre": null,
+                "baseType": "series"
+              }
+            ]
+          },
+          {
+            "id": "folder-7f82d0c6",
+            "title": "MUBI",
+            "shape": "LANDSCAPE",
+            "hideTitle": true,
+            "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/MUBI%20-%20Fundo%20Branco%20-%20Logo%20Preto.png",
+            "coverEmoji": "",
+            "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/mubi/mubi-hover.gif",
+            "focusGifEnabled": true,
+            "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/companies/204957-mubi/backdrops/t2_flat_1080p.jpg",
+            "heroVideoUrl": "",
+            "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/companies/204957-mubi/logos/white/204957_white_2.png",
+            "sources": [
+              {
+                "catalogId": "streaming.mub_movie",
+                "type": "movie",
+                "name": "MUBI",
+                "genre": null,
+                "baseType": "movie"
+              },
+              {
+                "catalogId": "streaming.mub_series",
+                "type": "series",
+                "name": "MUBI",
+                "genre": null,
+                "baseType": "series"
+              }
+            ]
           }
         ]
       }
@@ -1191,7 +1353,7 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-15T17:27:51.582Z"
+        "lastSyncedAt": "2026-09-22T02:02:15.293Z"
       },
       {
         "id": "a1c8240a-3c36-4711-9fbf-788e2107e1b6",
@@ -1200,7 +1362,7 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-15T17:27:52.736Z"
+        "lastSyncedAt": "2026-09-22T02:02:16.360Z"
       },
       {
         "id": "58166fdc-f673-4ad6-8ff7-bde81d676e4a",
@@ -1209,7 +1371,7 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-15T17:27:53.877Z"
+        "lastSyncedAt": "2026-09-22T02:02:17.356Z"
       },
       {
         "id": "d73c13c2-0231-4cd4-92f9-ffa68454fe93",
@@ -1218,7 +1380,7 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-15T17:27:55.016Z"
+        "lastSyncedAt": "2026-09-22T02:02:18.446Z"
       },
       {
         "id": "a0d9a27d-dcf5-4627-a1cf-0f527c61d438",
@@ -1227,7 +1389,16 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-15T17:27:56.081Z"
+        "lastSyncedAt": "2026-09-22T02:02:19.407Z"
+      },
+      {
+        "id": "e7bcdd64-1814-4101-95b8-2df285b51974",
+        "managerId": "aiomanager",
+        "label": "Conta Pessoal Pt-Br Reserva",
+        "instanceUrl": "https://aiomanager-beta.stremio.ru",
+        "profileTags": [],
+        "autoSync": true,
+        "lastSyncedAt": "2026-09-22T02:02:20.506Z"
       }
     ],
     "ai_catalog": {
@@ -1237,7 +1408,7 @@
   },
   "metadata": {
     "apiKeysExcluded": true,
-    "totalCatalogs": 26,
-    "enabledCatalogs": 26
+    "totalCatalogs": 30,
+    "enabledCatalogs": 30
   }
 }
