@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>iOS · Tutorial de Instalação</title>
+<meta name="description" content="Tutorial passo a passo para instalar o Nuvio no iOS usando iTunes, iLoader e SideStore.">
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+
+  :root {
+    --bg: #f2f2f7;
+    --surface: #ffffff;
+    --surface-2: #fafafc;
+    --text: #1c1c1e;
+    --muted: #6e6e73;
+    --border: rgba(0,0,0,.08);
+    --accent: #0071e3;
+    --accent-2: #a855f7;
+    --ok: #30d158;
+    --warn: #ff9f0a;
+    --shadow: 0 1px 2px rgba(0,0,0,.04), 0 10px 30px rgba(0,0,0,.07);
+    --radius: 18px;
+  }
+
+  html[data-theme="dark"] {
+    --bg: #0b0b0f;
+    --surface: #16161c;
+    --surface-2: #1d1d24;
+    --text: #f5f5f7;
+    --muted: #9a9aa3;
+    --border: rgba(255,255,255,.1);
+    --shadow: 0 1px 2px rgba(0,0,0,.5), 0 10px 30px rgba(0,0,0,.4);
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.65;
+    -webkit-font-smoothing: antialiased;
+    transition: background .3s ease, color .3s ease;
+  }
+
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    background:
+      radial-gradient(650px 420px at 8% -8%, rgba(0,113,227,.20), transparent 62%),
+      radial-gradient(650px 420px at 95% -4%, rgba(168,85,247,.18), transparent 62%);
+  }
+
+  /* ---------- Topbar ---------- */
+  .topbar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    backdrop-filter: saturate(180%) blur(18px);
+    -webkit-backdrop-filter: saturate(180%) blur(18px);
+    background: color-mix(in srgb, var(--bg) 78%, transparent);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .topbar-inner {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .topbar-title {
+    font-size: .86rem;
+    font-weight: 600;
+    letter-spacing: -.01em;
+    white-space: nowrap;
+    color: var(--muted);
+  }
+
+  .progress {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-width: 0;
+  }
+
+  .progress-track {
+    flex: 1;
+    height: 7px;
+    border-radius: 99px;
+    background: color-mix(in srgb, var(--muted) 20%, transparent);
+    overflow: hidden;
+  }
+
+  .progress-fill {
+    display: block;
+    height: 100%;
+    width: 0%;
+    border-radius: 99px;
+    background: linear-gradient(90deg, var(--accent), var(--accent-2));
+    transition: width .45s cubic-bezier(.4,0,.2,1);
+  }
+
+  #progress-text {
+    font-size: .78rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  .icon-btn {
+    flex: none;
+    width: 34px;
+    height: 34px;
+    display: grid;
+    place-items: center;
+    font-size: 1rem;
+    line-height: 1;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    cursor: pointer;
+    transition: transform .15s ease, background .2s ease;
+  }
+  .icon-btn:hover { transform: translateY(-1px); background: var(--surface-2); }
+  .icon-btn:active { transform: scale(.94); }
+
+  /* ---------- Layout ---------- */
+  .wrap {
+    position: relative;
+    z-index: 1;
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 20px 80px;
+  }
+
+  /* ---------- Hero ---------- */
+  .hero { padding: 56px 0 30px; text-align: center; }
+
+  .hero .badge {
+    display: inline-block;
+    padding: 5px 13px;
+    font-size: .74rem;
+    font-weight: 600;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 12%, transparent);
+    border-radius: 99px;
+    margin-bottom: 18px;
+  }
+
+  .hero-image {
+    display: block;
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+    margin: 0 auto 26px;
+    border-radius: 20px;
+    box-shadow: var(--shadow);
+    object-fit: cover;
+    animation: floatIn .8s cubic-bezier(.2,.8,.2,1) both;
+  }
+
+  @keyframes floatIn {
+    from { opacity: 0; transform: translateY(14px) scale(.98); }
+    to   { opacity: 1; transform: translateY(0) scale(1); }
+  }
+
+  .hero h1 {
+    margin: 0 0 12px;
+    font-size: clamp(2rem, 6vw, 3.1rem);
+    line-height: 1.1;
+    letter-spacing: -.03em;
+    font-weight: 800;
+    background: linear-gradient(120deg, var(--accent), var(--accent-2));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .hero p {
+    margin: 0 auto;
+    max-width: 540px;
+    color: var(--muted);
+    font-size: 1.02rem;
+  }
+
+  /* ---------- Índice ---------- */
+  .toc {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin: 26px 0 0;
+  }
+
+  .toc a {
+    font-size: .84rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--text);
+    padding: 7px 14px;
+    border-radius: 99px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow);
+    transition: transform .15s ease, border-color .2s ease, color .2s ease;
+  }
+  .toc a:hover { transform: translateY(-2px); border-color: var(--accent); color: var(--accent); }
+
+  /* ---------- Seções ---------- */
+  section { scroll-margin-top: 86px; margin-top: 54px; }
+
+  .section-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.35rem;
+    letter-spacing: -.02em;
+    margin: 0 0 6px;
+    font-weight: 700;
+  }
+
+  .section-sub {
+    margin: 0 0 22px;
+    color: var(--muted);
+    font-size: .93rem;
+  }
+
+  /* ---------- Cards de pré-requisitos ---------- */
+  .req-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+    gap: 12px;
+  }
+
+  .req {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 16px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    box-shadow: var(--shadow);
+    transition: transform .18s ease, border-color .18s ease;
+  }
+  .req:hover { transform: translateY(-3px); border-color: color-mix(in srgb, var(--accent) 40%, transparent); }
+
+  .req .emoji { font-size: 1.25rem; line-height: 1; }
+  .req .label { font-size: .9rem; font-weight: 600; letter-spacing: -.01em; }
+  .req .hint { display: block; font-size: .76rem; font-weight: 400; color: var(--muted); }
+
+  /* ---------- Passos ---------- */
+  .step {
+    position: relative;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 20px 22px;
+    margin-bottom: 14px;
+    transition: border-color .25s ease, opacity .25s ease, transform .18s ease;
+  }
+
+  .step:hover { transform: translateY(-2px); }
+
+  .step-head {
+    display: flex;
+    align-items: flex-start;
+    gap: 13px;
+    margin-bottom: 12px;
+  }
+
+  .num {
+    flex: none;
+    width: 32px;
+    height: 32px;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    font-size: .88rem;
+    font-weight: 700;
+    color: #fff;
+    background: linear-gradient(135deg, var(--accent), var(--accent-2));
+    box-shadow: 0 4px 12px color-mix(in srgb, var(--accent) 35%, transparent);
+  }
+
+  .step-head h3 {
+    flex: 1;
+    margin: 0;
+    font-size: 1.05rem;
+    font-weight: 650;
+    letter-spacing: -.015em;
+    line-height: 1.4;
+    padding-top: 3px;
+  }
+
+  .check {
+    flex: none;
+    width: 28px;
+    height: 28px;
+    margin-top: 2px;
+    border-radius: 50%;
+    border: 2px solid color-mix(in srgb, var(--muted) 45%, transparent);
+    background: transparent;
+    cursor: pointer;
+    display: grid;
+    place-items: center;
+    color: transparent;
+    font-size: .8rem;
+    font-weight: 800;
+    transition: all .2s ease;
+  }
+  .check:hover { border-color: var(--ok); }
+  .check::after { content: "✓"; }
+
+  .step.done { border-color: color-mix(in srgb, var(--ok) 45%, transparent); }
+  .step.done .check { background: var(--ok); border-color: var(--ok); color: #fff; }
+  .step.done .step-head h3 { color: var(--muted); }
+
+  .step-body { padding-left: 45px; }
+  .step-body > :first-child { margin-top: 0; }
+  .step-body > :last-child { margin-bottom: 0; }
+
+  .step ol, .step ul { margin: 0 0 10px; padding-left: 20px; }
+  .step li { margin-bottom: 7px; font-size: .94rem; }
+  .step li::marker { color: var(--accent); font-weight: 700; }
+
+  kbd {
+    font-family: inherit;
+    font-size: .85em;
+    font-weight: 600;
+    padding: 2px 7px;
+    border-radius: 6px;
+    background: color-mix(in srgb, var(--muted) 16%, transparent);
+    border: 1px solid var(--border);
+  }
+
+  /* ---------- Notas / Avisos ---------- */
+  .note {
+    display: flex;
+    gap: 10px;
+    margin: 12px 0 0;
+    padding: 12px 15px;
+    border-radius: 13px;
+    font-size: .88rem;
+    line-height: 1.55;
+    border: 1px solid;
+  }
+  .note .ico { flex: none; line-height: 1.5; }
+  .note.info {
+    background: color-mix(in srgb, var(--accent) 9%, transparent);
+    border-color: color-mix(in srgb, var(--accent) 28%, transparent);
+  }
+  .note.warn {
+    background: color-mix(in srgb, var(--warn) 13%, transparent);
+    border-color: color-mix(in srgb, var(--warn) 38%, transparent);
+  }
+  .note strong { font-weight: 650; }
+
+  /* ---------- Card destaque (expiração) ---------- */
+  .expiry {
+    margin-top: 16px;
+    padding: 18px 20px;
+    border-radius: var(--radius);
+    background: linear-gradient(135deg,
+      color-mix(in srgb, var(--warn) 16%, var(--surface)),
+      var(--surface));
+    border: 1px solid color-mix(in srgb, var(--warn) 40%, transparent);
+    box-shadow: var(--shadow);
+  }
+  .expiry h4 {
+    margin: 0 0 6px;
+    font-size: .98rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .expiry p { margin: 0; font-size: .9rem; color: var(--text); }
+
+  /* ---------- Footer ---------- */
+  footer {
+    margin-top: 64px;
+    padding-top: 28px;
+    border-top: 1px solid var(--border);
+    text-align: center;
+    color: var(--muted);
+    font-size: .87rem;
+  }
+
+  .footer-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 16px;
+  }
+
+  .credits {
+    display: inline-flex;
+    align-items: center;
+    gap: 9px;
+    padding: 10px 20px;
+    border-radius: 99px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow);
+    font-weight: 600;
+    color: var(--text);
+    font-size: .87rem;
+    text-decoration: none;
+    transition: transform .18s ease, box-shadow .2s ease, background .2s ease, color .2s ease;
+  }
+
+  .credits:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,.08), 0 14px 34px rgba(0,0,0,.1);
+  }
+
+  /* Botão do Discord — com ícone oficial */
+  .credits.discord {
+    color: #fff;
+    background: linear-gradient(135deg, #5865F2, #7d5fff);
+    border-color: transparent;
+  }
+
+  .credits.discord:hover {
+    color: #fff;
+    box-shadow: 0 4px 12px rgba(88,101,242,.4), 0 14px 34px rgba(88,101,242,.3);
+  }
+
+  .credits.discord .discord-icon {
+    width: 20px;
+    height: 20px;
+    flex: none;
+    fill: #fff;
+    display: block;
+    filter: drop-shadow(0 1px 2px rgba(0,0,0,.15));
+  }
+
+  footer .small { font-size: .78rem; opacity: .8; }
+
+  @media (max-width: 560px) {
+    .topbar-title { display: none; }
+    .step-body { padding-left: 0; }
+    .step { padding: 18px; }
+    .hero { padding: 40px 0 24px; }
+    .hero-image { max-width: 300px; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; transition: none !important; }
+    html { scroll-behavior: auto; }
+  }
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <span class="topbar-title">iOS · Instalação</span>
+    <div class="progress">
+      <div class="progress-track"><span class="progress-fill" id="bar"></span></div>
+      <span id="progress-text">0/6</span>
+    </div>
+    <button class="icon-btn" id="reset" title="Reiniciar progresso" aria-label="Reiniciar progresso">↺</button>
+    <button class="icon-btn" id="theme" title="Alternar tema" aria-label="Alternar tema">🌙</button>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <div class="hero">
+    <!-- 👇 IMAGEM DE CAPA -->
+    <img src="Tutoriais.png" alt="Capa do tutorial de instalação iOS" class="hero-image">
+
+    <h1>Instalação do Nuvio no iOS</h1>
+    <p>Do iTunes ao Nuvio funcionando: siga os passos na ordem e marque cada etapa concluída.</p>
+
+    <nav class="toc" aria-label="Índice">
+      <a href="#requisitos">📋 Pré-requisitos</a>
+      <a href="#passos">🔧 Passo a passo</a>
+      <a href="#confiar">⚠️ Antes de abrir</a>
+      <a href="#nuvio">📲 Instalar o Nuvio</a>
+      <a href="#creditos">🫡 Créditos</a>
+    </nav>
+  </div>
+
+  <!-- ================= PRÉ-REQUISITOS ================= -->
+  <section id="requisitos">
+    <h2 class="section-title">📋 Pré-requisitos</h2>
+    <p class="section-sub">Separe tudo antes de começar — o processo é mais rápido assim.</p>
+
+    <div class="req-grid">
+      <div class="req">
+        <span class="emoji">🎵</span>
+        <span class="label">iTunes <span class="hint">Versão do site da Apple</span></span>
+      </div>
+      <div class="req">
+        <span class="emoji">📦</span>
+        <span class="label">iLoader</span>
+      </div>
+      <div class="req">
+        <span class="emoji">🏪</span>
+        <span class="label">SideStore <span class="hint">stable</span></span>
+      </div>
+      <div class="req">
+        <span class="emoji">🔐</span>
+        <span class="label">VPN Local Dev</span>
+      </div>
+      <div class="req">
+        <span class="emoji">📱</span>
+        <span class="label">Nuvio <span class="hint">arquivo do app</span></span>
+      </div>
+      <div class="req">
+        <span class="emoji">🔌</span>
+        <span class="label">Cabo USB</span>
+      </div>
+      <div class="req">
+        <span class="emoji">💻</span>
+        <span class="label">Notebook <span class="hint">com internet</span></span>
+      </div>
+    </div>
+
+    <div class="note warn">
+      <span class="ico">⚠️</span>
+      <span><strong>Atenção:</strong> o iTunes <strong>não pode</strong> ser a versão da Microsoft Store.</span>
+    </div>
+  </section>
+
+  <!-- ================= PASSO A PASSO ================= -->
+  <section id="passos">
+    <h2 class="section-title">🔧 Passo a passo</h2>
+    <p class="section-sub">Etapas feitas no notebook com o celular conectado.</p>
+
+    <!-- 1 -->
+    <article class="step" data-step>
+      <div class="step-head">
+        <span class="num">1</span>
+        <h3>Instalar e autorizar o iTunes</h3>
+        <button class="check" aria-pressed="false" aria-label="Marcar etapa 1 como concluída"></button>
+      </div>
+      <div class="step-body">
+        <ol>
+          <li>Instale o <strong>iTunes</strong> (não pode ser a versão da Microsoft Store).</li>
+          <li>Após instalar, vá em <kbd>Conta</kbd> → <kbd>Autorizações</kbd> → <kbd>Autorizar este dispositivo</kbd> e faça login para autorizar o seu notebook.</li>
+        </ol>
+      </div>
+    </article>
+
+    <!-- 2 -->
+    <article class="step" data-step>
+      <div class="step-head">
+        <span class="num">2</span>
+        <h3>Conectar o dispositivo</h3>
+        <button class="check" aria-pressed="false" aria-label="Marcar etapa 2 como concluída"></button>
+      </div>
+      <div class="step-body">
+        <ol>
+          <li>Conecte seu aparelho ao notebook usando um <strong>cabo USB</strong>.</li>
+          <li>Uma mensagem aparecerá perguntando se <em>"você autoriza que este computador acesse o iPhone?"</em></li>
+          <li>Clique em <strong>Continuar</strong> e, no celular, selecione <strong>Confiar</strong> e digite o seu código.</li>
+          <li>Apenas minimize o app e mantenha o celular conectado ao cabo USB.</li>
+        </ol>
+        <div class="note info">
+          <span class="ico">💡</span>
+          <span><strong>Observação:</strong> para facilitar (antes de minimizar o app), na aba lateral, ache seu celular pelo nome (ex.: <em>iPhone de Luna</em>), clique nele e role até <strong>Opções</strong>.</span>
+        </div>
+      </div>
+    </article>
+
+    <!-- 3 -->
+    <article class="step" data-step>
+      <div class="step-head">
+        <span class="num">3</span>
+        <h3>Ativar sincronização via Wi-Fi <span style="font-weight:400;color:var(--muted);font-size:.85em">(opcional)</span></h3>
+        <button class="check" aria-pressed="false" aria-label="Marcar etapa 3 como concluída"></button>
+      </div>
+      <div class="step-body">
+        <ol>
+          <li>Em <strong>Opções</strong>, marque: <em>"Sincronizar com esse iPhone através de uma conexão Wi-Fi"</em>.</li>
+        </ol>
+        <div class="note info">
+          <span class="ico">💡</span>
+          <span>Essa opção não dispensa o uso do cabo, já que o iPhone precisa estar na tomada, mas é uma segunda opção para facilitar a renovação em alguns casos.</span>
+        </div>
+      </div>
+    </article>
+
+    <!-- 4 -->
+    <article class="step" data-step>
+      <div class="step-head">
+        <span class="num">4</span>
+        <h3>Instalar o iLoader</h3>
+        <button class="check" aria-pressed="false" aria-label="Marcar etapa 4 como concluída"></button>
+      </div>
+      <div class="step-body">
+        <ol>
+          <li>Instale o <strong>iLoader</strong> e faça login na sua conta Apple.</li>
+        </ol>
+        <div class="note info">
+          <span class="ico">🔒</span>
+          <span>Não se preocupe, é seguro. Uso um método semelhante que também exige login há um tempinho e nunca tive problemas!</span>
+        </div>
+        <ol start="2" style="margin-top:12px">
+          <li>Após fazer o login, selecione seu dispositivo na parte <strong>iDevice</strong>.</li>
+          <li>Na aba <strong>Installers</strong>, selecione <strong>SideStore (stable)</strong>. O download irá começar.</li>
+          <li>Só desconecte o cabo após as três etapas do download serem concluídas.</li>
+          <li>Depois disso, pode desconectar o PC. A partir daqui não precisa mais — tudo será feito somente no celular.</li>
+        </ol>
+      </div>
+    </article>
+  </section>
+
+  <!-- ================= ANTES DE ABRIR ================= -->
+  <section id="confiar">
+    <h2 class="section-title">⚠️ Antes de abrir o app</h2>
+    <p class="section-sub">Agora tudo é feito direto no celular.</p>
+
+    <article class="step" data-step>
+      <div class="step-head">
+        <span class="num">5</span>
+        <h3>Confiar no desenvolvedor e ativar o Modo de Desenvolvimento</h3>
+        <button class="check" aria-pressed="false" aria-label="Marcar etapa 5 como concluída"></button>
+      </div>
+      <div class="step-body">
+        <ol>
+          <li>No celular, vá em: <kbd>Ajustes</kbd> → <kbd>Geral</kbd> → <kbd>Gestão de VPN e Dispositivo</kbd>.</li>
+          <li>Na parte de apps do desenvolvedor, ache a opção com o e-mail do seu ID, clique nele e depois em <strong>Confiar em seu ID</strong> e permitir.</li>
+          <li>Também pesquise por <strong>Modo de Desenvolvimento</strong> e ative.</li>
+        </ol>
+      </div>
+    </article>
+  </section>
+
+  <!-- ================= NUVIO ================= -->
+  <section id="nuvio">
+    <h2 class="section-title">📲 Instalação do Nuvio</h2>
+    <p class="section-sub">A etapa final — e a mais importante.</p>
+
+    <article class="step" data-step>
+      <div class="step-head">
+        <span class="num">6</span>
+        <h3>Instalar o Nuvio pelo SideStore</h3>
+        <button class="check" aria-pressed="false" aria-label="Marcar etapa 6 como concluída"></button>
+      </div>
+      <div class="step-body">
+        <ol>
+          <li>Primeiro, instale o app <strong>VPN Local Dev</strong>, conceda as permissões necessárias e ative!</li>
+        </ol>
+        <div class="note warn">
+          <span class="ico">⚠️</span>
+          <span>Sem essa VPN, o processo de instalação ou renovação dos apps pode não funcionar.</span>
+        </div>
+        <ol start="2" style="margin-top:12px">
+          <li>Abra o <strong>SideStore</strong> e faça login com seu ID Apple nas configurações do app.</li>
+          <li>Na aba <strong>My Apps</strong>, clique no <strong>"+"</strong> e selecione o arquivo do <strong>Nuvio</strong>.</li>
+          <li>Após selecionar o arquivo, aparecerá uma mensagem avisando que o app contém extensões. Como elas são essenciais para o funcionamento do Nuvio, escolha a <strong>1ª opção</strong> para mantê-las. Caso contrário, o app pode não funcionar corretamente!</li>
+          <li>Aguarde a instalação e já pode usar o app normalmente. Aproveite! 🎉</li>
+        </ol>
+
+        <div class="expiry">
+          <h4>⏳ Atenção ao prazo de 7 dias</h4>
+          <p>
+            A instalação expira em <strong>7 dias</strong>. Antes disso, clique em <strong>Refresh All</strong> na tela inicial do app da SideStore para não perder a instalação!
+            Caso você esqueça, terá que repetir todo o processo com o auxílio do PC.
+          </p>
+        </div>
+      </div>
+    </article>
+  </section>
+
+  <!-- ================= CRÉDITOS ================= -->
+  <footer id="creditos">
+    <div class="footer-actions">
+
+      <!-- Botão: Contribuições + @Twill -->
+      <span class="credits">🫡 Contribuições - @Twill</span>
+
+      <!-- Botão: Discord com ícone oficial -->
+      <a href="https://discord.com/invite/YvCqRYe9gw"
+         target="_blank"
+         rel="noopener noreferrer"
+         class="credits discord"
+         aria-label="Entrar no servidor do Discord">
+        <svg class="discord-icon" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M20.317 4.37a19.79 19.79 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028 14.09 14.09 0 0 0 1.226-1.994.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z"/>
+        </svg>
+        <span>Comunidade no Discord</span>
+      </a>
+
+    </div>
+
+    <p class="small">Tutorial organizado para consulta rápida. Bom uso! ✨</p>
+  </footer>
+
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  /* ---------- Tema ---------- */
+  var html = document.documentElement;
+  var themeBtn = document.getElementById("theme");
+  var savedTheme = localStorage.getItem("ios-tutorial-theme");
+
+  if (savedTheme) {
+    html.setAttribute("data-theme", savedTheme);
+  } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+    html.setAttribute("data-theme", "dark");
+  }
+  updateThemeIcon();
+
+  themeBtn.addEventListener("click", function () {
+    var next = html.getAttribute("data-theme") === "dark" ? "light" : "dark";
+    html.setAttribute("data-theme", next);
+    localStorage.setItem("ios-tutorial-theme", next);
+    updateThemeIcon();
+  });
+
+  function updateThemeIcon() {
+    themeBtn.textContent = html.getAttribute("data-theme") === "dark" ? "☀️" : "🌙";
+  }
+
+  /* ---------- Progresso ---------- */
+  var KEY = "ios-tutorial-progress";
+  var steps = Array.prototype.slice.call(document.querySelectorAll("[data-step]"));
+  var bar = document.getElementById("bar");
+  var label = document.getElementById("progress-text");
+  var resetBtn = document.getElementById("reset");
+
+  var state = {};
+  try { state = JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { state = {}; }
+
+  steps.forEach(function (step, i) {
+    var btn = step.querySelector(".check");
+
+    if (state[i]) {
+      step.classList.add("done");
+      btn.setAttribute("aria-pressed", "true");
+    }
+
+    btn.addEventListener("click", function () {
+      var done = step.classList.toggle("done");
+      btn.setAttribute("aria-pressed", String(done));
+      state[i] = done;
+      save();
+      render();
+    });
+  });
+
+  function save() {
+    try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {}
+  }
+
+  function render() {
+    var done = steps.filter(function (s) { return s.classList.contains("done"); }).length;
+    var pct = steps.length ? (done / steps.length) * 100 : 0;
+    bar.style.width = pct + "%";
+    label.textContent = done + "/" + steps.length;
+  }
+
+  resetBtn.addEventListener("click", function () {
+    steps.forEach(function (step) {
+      step.classList.remove("done");
+      step.querySelector(".check").setAttribute("aria-pressed", "false");
+    });
+    state = {};
+    save();
+    render();
+  });
+
+  render();
+})();
+</script>
+
+</body>
+</html>
