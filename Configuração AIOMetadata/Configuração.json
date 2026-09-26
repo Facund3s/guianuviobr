@@ -1,6 +1,6 @@
 {
-  "version": "2.17.2",
-  "exportedAt": "2026-09-22T02:04:46.069Z",
+  "version": "3.1.0",
+  "exportedAt": "2026-09-26T00:53:58.755Z",
   "config": {
     "language": "pt-BR",
     "addonName": "AIOMetadata - Config Facund3s",
@@ -46,7 +46,7 @@
       "englishArtOnly": false,
       "originalLangFallback": false
     },
-    "tvdbSeasonType": "default",
+    "tvdbSeasonType": "official",
     "mal": {
       "skipFiller": false,
       "skipRecap": false,
@@ -76,7 +76,7 @@
     "mdblistWatchTracking": true,
     "anilistWatchTracking": false,
     "malWatchTracking": false,
-    "simklWatchTracking": false,
+    "simklWatchTracking": true,
     "traktWatchTracking": true,
     "publicmetadbWatchTracking": false,
     "enableRatingPostersForLibrary": true,
@@ -211,7 +211,7 @@
         "type": "movie",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -224,7 +224,7 @@
         "type": "series",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -237,7 +237,7 @@
         "type": "movie",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -250,7 +250,7 @@
         "type": "series",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -263,7 +263,7 @@
         "type": "movie",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -276,7 +276,7 @@
         "type": "series",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -289,7 +289,7 @@
         "type": "movie",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -302,7 +302,7 @@
         "type": "series",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -315,7 +315,7 @@
         "type": "movie",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -328,7 +328,7 @@
         "type": "series",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -341,7 +341,7 @@
         "type": "movie",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -354,7 +354,7 @@
         "type": "series",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -367,7 +367,7 @@
         "type": "movie",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "sort": "popularity",
         "sortDirection": "desc",
         "displayType": "movie"
@@ -378,7 +378,7 @@
         "type": "series",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "sort": "popularity",
         "sortDirection": "desc",
         "displayType": "series"
@@ -389,7 +389,7 @@
         "type": "movie",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "sort": "popularity",
         "sortDirection": "desc",
         "displayType": "movie"
@@ -400,7 +400,7 @@
         "type": "series",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "sort": "popularity",
         "sortDirection": "desc",
         "displayType": "series"
@@ -411,7 +411,7 @@
         "type": "movie",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -424,7 +424,7 @@
         "type": "series",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "enableRatingPosters": true,
         "randomizePerPage": false,
         "sort": "popularity",
@@ -437,7 +437,7 @@
         "type": "movie",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "sort": "popularity",
         "sortDirection": "desc",
         "displayType": "movie"
@@ -448,7 +448,7 @@
         "type": "series",
         "source": "streaming",
         "enabled": true,
-        "showInHome": false,
+        "showInHome": true,
         "sort": "popularity",
         "sortDirection": "desc",
         "displayType": "series"
@@ -1032,13 +1032,13 @@
       "hlu",
       "gop"
     ],
-    "customPosterUrlPattern": "",
+    "customPosterUrlPattern": "https://pictorium.duckdns.org/api/poster/{type}/{imdb_id}?u=d7a104a3-1720-4651-83be-0f72774a91de&bg=0&by=0&sep=1&rsrc=imdb%2Ctmdb%2Cmetacritic%2Ctomatoes&pre=1&side=left&lang=pt&gradHeight=30&blur=20&tint=20&bf=50&bd=30&bs=colored&rs=default&tscale=100&tox=0&toy=0&gscale=100&gox=0&goy=0&qscale=100&qox=0&qoy=0&netscale=100&nox=0&noy=0&rv=bf29103bc5",
     "customBackgroundUrlPattern": "",
     "customLandscapeUrlPattern": "",
     "customLogoUrlPattern": "",
-    "lastModified": 1790006788334,
-    "configVersion": 1790006788335,
-    "configHash": "83b36d4f4fd70547",
+    "lastModified": 1790383827602,
+    "configVersion": 1790383827603,
+    "configHash": "3dd531ee97c78780",
     "customThumbnailUrlPattern": "",
     "collections": [
       {
@@ -1353,7 +1353,7 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-22T02:02:15.293Z"
+        "lastSyncedAt": "2026-09-26T00:50:31.558Z"
       },
       {
         "id": "a1c8240a-3c36-4711-9fbf-788e2107e1b6",
@@ -1362,7 +1362,7 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-22T02:02:16.360Z"
+        "lastSyncedAt": "2026-09-26T00:50:32.558Z"
       },
       {
         "id": "58166fdc-f673-4ad6-8ff7-bde81d676e4a",
@@ -1371,7 +1371,7 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-22T02:02:17.356Z"
+        "lastSyncedAt": "2026-09-26T00:50:33.714Z"
       },
       {
         "id": "d73c13c2-0231-4cd4-92f9-ffa68454fe93",
@@ -1380,7 +1380,7 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-22T02:02:18.446Z"
+        "lastSyncedAt": "2026-09-26T00:50:35.826Z"
       },
       {
         "id": "a0d9a27d-dcf5-4627-a1cf-0f527c61d438",
@@ -1389,7 +1389,7 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-22T02:02:19.407Z"
+        "lastSyncedAt": "2026-09-26T00:50:38.795Z"
       },
       {
         "id": "e7bcdd64-1814-4101-95b8-2df285b51974",
@@ -1398,13 +1398,18 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-22T02:02:20.506Z"
+        "lastSyncedAt": "2026-09-26T00:50:40.428Z"
       }
     ],
     "ai_catalog": {
       "gemini_model": "gemini-3.5-flash"
     },
-    "tags": []
+    "tags": [],
+    "recommendations": {
+      "sources": "mdblist",
+      "gemini_model": "gemini-flash-latest",
+      "web_search": true
+    }
   },
   "metadata": {
     "apiKeysExcluded": true,
