@@ -15,6 +15,7 @@
 
 <p align="center">
   <a href="https://discord.com/invite/YvCqRYe9gw"><img src="https://img.shields.io/badge/Comunidade_no-Discord-blue?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.com/invite/YvCqRYe9gw"><img src="https://img.shields.io/discord/1539847210143981619?label=discord&logo=discord&logoColor=white" alt="Discord Online"></a>
   <a href="https://github.com/Facund3s/guianuviobr/tree/main/Tutoriais"><img src="https://img.shields.io/badge/Nossos-Tutoriais-purple?logo=github&logoColor=white" alt="Tutoriais"></a>
   <a href="https://torbox.app/subscription?referral=9607f7bf-8ae6-4e79-9bfe-f1756e5f20be"><img src="https://img.shields.io/badge/Debrid-TorBox-green?logo=github&logoColor=white" alt="Tutoriais"></a>
 </p>
