@@ -1,6 +1,6 @@
 {
-  "version": "3.1.0",
-  "exportedAt": "2026-09-26T00:53:58.755Z",
+  "version": "3.3.2",
+  "exportedAt": "2026-09-30T17:28:02.740Z",
   "config": {
     "language": "pt-BR",
     "addonName": "AIOMetadata - Config Facund3s",
@@ -1032,13 +1032,13 @@
       "hlu",
       "gop"
     ],
-    "customPosterUrlPattern": "https://pictorium.duckdns.org/api/poster/{type}/{imdb_id}?u=d7a104a3-1720-4651-83be-0f72774a91de&bg=0&by=0&sep=1&rsrc=imdb%2Ctmdb%2Cmetacritic%2Ctomatoes&pre=1&side=left&lang=pt&gradHeight=30&blur=20&tint=20&bf=50&bd=30&bs=colored&rs=default&tscale=100&tox=0&toy=0&gscale=100&gox=0&goy=0&qscale=100&qox=0&qoy=0&netscale=100&nox=0&noy=0&rv=bf29103bc5",
+    "customPosterUrlPattern": "",
     "customBackgroundUrlPattern": "",
     "customLandscapeUrlPattern": "",
     "customLogoUrlPattern": "",
-    "lastModified": 1790383827602,
-    "configVersion": 1790383827603,
-    "configHash": "3dd531ee97c78780",
+    "lastModified": 1790385399580,
+    "configVersion": 1790385399581,
+    "configHash": "64ebefd7b4a059ea",
     "customThumbnailUrlPattern": "",
     "collections": [
       {
@@ -1353,7 +1353,7 @@
         "instanceUrl": "https://aiomanager-beta.stremio.ru",
         "profileTags": [],
         "autoSync": true,
-        "lastSyncedAt": "2026-09-26T00:50:31.558Z"
+        "lastSyncedAt": "2026-09-26T01:14:50.111Z"
       },
       {
         "id": "a1c8240a-3c36-4711-9fbf-788e2107e1b6",
@@ -1406,8 +1406,8 @@
     },
     "tags": [],
     "recommendations": {
-      "sources": "mdblist",
-      "gemini_model": "gemini-flash-latest",
+      "sources": "both",
+      "gemini_model": "gemini-3.5-flash-lite",
       "web_search": true
     }
   },
