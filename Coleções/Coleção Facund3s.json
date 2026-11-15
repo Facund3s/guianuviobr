@@ -1,0 +1,736 @@
+[
+  {
+    "id": "9fd0447d-2e7f-468d-ae4a-e552c6625f59-2",
+    "title": "Streaming",
+    "folders": [
+      {
+        "id": "10eb46b4-01f8-42a2-850f-adb2dd681b24",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "Netflix",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.nfx_movie",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.nfx",
+                "name": "Netflix",
+                "sort": "popularity",
+                "type": "movie",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Netflix",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "Netflix",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.nfx_series",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.nfx",
+                "name": "Netflix",
+                "sort": "popularity",
+                "type": "series",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Netflix",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/9f93a9fc2e02fb466eb02a7d2247cb6e/a5b604d3737fc559-49/s500x750/403804744183922f6091d48139021fc3da22f786.gifv",
+        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/213-netflix/logos/color/213_color_1.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Netflix%20-%20Fundo%20Gradiente%20-%20Logo%20Branco.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx_series"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/213-netflix/backdrops/t2_flat_1080p.jpg"
+      },
+      {
+        "id": "c1a4f501-4a17-4ad6-bb70-bb7628293f44",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "Prime Video",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.amp_movie",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.amp",
+                "name": "Prime Video",
+                "sort": "popularity",
+                "type": "movie",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Prime Video",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "Prime Video",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.amp_series",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.amp",
+                "name": "Prime Video",
+                "sort": "popularity",
+                "type": "series",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Prime Video",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/5c5ed8bf948c5b3ca63a11544b94c720/55dbe5d6db4b66a5-bf/s500x750/d6686beaab57aa152f1b92a4562f757a1c522a2f.gifv",
+        "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Prime%20Video%20-%20Fundo%20Gradiente%20-%20Logo%20Branco.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp_series"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/providers/9-amazon-prime-video/backdrops/t2_flat_1080p.jpg"
+      },
+      {
+        "id": "folder-2e9e5868",
+        "title": "Hulu",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "Hulu",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.hlu_movie",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.hlu",
+                "name": "Hulu",
+                "sort": "popularity",
+                "type": "movie",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Hulu",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "Hulu",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.hlu_series",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.hlu",
+                "name": "Hulu",
+                "sort": "popularity",
+                "type": "series",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Hulu",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/3a7015de27b570e421a0182a66d0a69b/0ec3a7379449b39d-2d/s1280x1920/962f0dcfa0a2458bd6bf923ff47776f2404bf43a.gifv",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Logos%20Originais/Hulu.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Hulu%20-%20Fundo%20Verde%20-%20Logo%20Preto.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hlu_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hlu_series"
+          }
+        ],
+        "focusGifEnabled": true
+      },
+      {
+        "id": "2bfaab60-3fe7-4b09-a2dd-c1ae96f0afec",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "Disney Plus",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.dnp_movie",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.dnp",
+                "name": "Disney Plus",
+                "sort": "popularity",
+                "type": "movie",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Disney Plus",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "Disney Plus",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.dnp_series",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.dnp",
+                "name": "Disney Plus",
+                "sort": "popularity",
+                "type": "series",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Disney Plus",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/ca6dc6d4e8a260c0c5f40c47c7334e57/eb71329b4dc482d5-50/s500x750/e9e82c5bca839be289f3d87863141ebf6d7fca28.gifv",
+        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/2739-disney/logos/color/2739_color_4.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Disney%20-%20Fundo%20Gradiente%20-%20Logo%20Branco.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp_series"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/providers/337-disney-plus/backdrops/t2_flat_1080p.jpg"
+      },
+      {
+        "id": "folder-48a02549",
+        "title": "Globoplay",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "Globoplay",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.gop_movie",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.gop",
+                "name": "Globoplay",
+                "sort": "popularity",
+                "type": "movie",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Globoplay",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "Globoplay",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.gop_series",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.gop",
+                "name": "Globoplay",
+                "sort": "popularity",
+                "type": "series",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Globoplay",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Logos%20Originais/Globoplay.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Globo%20Play%20-%20Fundo%20Gradiente.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.gop_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.gop_series"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "083371f8-3bee-476d-85be-1224b1e0b40c",
+        "title": "HBO Max",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "HBO Max",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.hbm_movie",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.hbm",
+                "name": "HBO Max",
+                "sort": "popularity",
+                "type": "movie",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "HBO Max",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "HBO Max",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.hbm_series",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.hbm",
+                "name": "HBO Max",
+                "sort": "popularity",
+                "type": "series",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "HBO Max",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/cca7a86d443a0bc88536a2ad6ce72aec/b495f88d5c1df470-a2/s640x960/4cb9b614191d17d02c946b4ca59548cd333c06fd.gifv",
+        "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/HBO%20-%20Fundo%20Gradiente%20-%20Logo%20Branca.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm_series"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/providers/1899-hbo-max/backdrops/t2_flat_1080p.jpg"
+      },
+      {
+        "id": "1a3eb8c0-19b1-4d89-b817-c59c96f43176",
+        "title": "Apple TV+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "Apple TV",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.atp_movie",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.atp",
+                "name": "Apple TV",
+                "sort": "popularity",
+                "type": "movie",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Apple TV",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "Apple TV",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.atp_series",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.atp",
+                "name": "Apple TV",
+                "sort": "popularity",
+                "type": "series",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Apple TV",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/d717319220a7d26bdaa88e72f6f76889/d9a7a808f588d8f4-63/s500x750/959b0ca57f53153b2ca9adaf414859e45e3734e6.gifv",
+        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/2552-apple-tv/logos/color/2552_color_1.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Apple%20-%20Fundo%20Branco%20-%20Logo%20Preto.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp_series"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/2552-apple-tv/backdrops/t2_flat_1080p.jpg"
+      },
+      {
+        "id": "7e7e012a-beed-4cba-bf40-387fb016de7b",
+        "title": "Crunchyroll",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "Crunchyroll",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.cru_movie",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.cru",
+                "name": "Crunchyroll",
+                "sort": "popularity",
+                "type": "movie",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Crunchyroll",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "Crunchyroll",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.cru_series",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.cru",
+                "name": "Crunchyroll",
+                "sort": "popularity",
+                "type": "series",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Crunchyroll",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://cdn.dribbble.com/userupload/42119533/file/original-3c24d9649543096949cc4262451501b7.gif",
+        "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Crunchyroll%20-%20Fundo%20Gradiente%20-%20Logo%20Branco.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.cru_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.cru_series"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/providers/283-crunchyroll/backdrops/t2_flat_1080p.jpg"
+      },
+      {
+        "id": "folder-c5a9613c",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "Paramount Plus",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.pmp_movie",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.pmp",
+                "name": "Paramount Plus",
+                "sort": "popularity",
+                "type": "movie",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Paramount Plus",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "Paramount Plus",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.pmp_series",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.pmp",
+                "name": "Paramount Plus",
+                "sort": "popularity",
+                "type": "series",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "Paramount Plus",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/refs/heads/main/art/streaming-services/paramount-plus/paramount-plus-hover.gif",
+        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/networks/4330-paramount/logos/color/4330_color_2.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/Paramount%20-%20Fundo%20Gradiente%20-%20Logo%20Branco.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_series"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/main/collections/providers/2303-paramount-plus-premium/backdrops/t2_flat_1080p.jpg"
+      },
+      {
+        "id": "folder-7f82d0c6",
+        "title": "MUBI",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "title": "MUBI",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.mub_movie",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.mub",
+                "name": "MUBI",
+                "sort": "popularity",
+                "type": "movie",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "MUBI",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          },
+          {
+            "type": "series",
+            "genre": "",
+            "title": "MUBI",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "addonName": "AIOMetadata - Config Pessoal",
+            "catalogId": "streaming.mub_series",
+            "aiometadata": {
+              "catalog": {
+                "id": "streaming.mub",
+                "name": "MUBI",
+                "sort": "popularity",
+                "type": "series",
+                "source": "streaming",
+                "enabled": true,
+                "showInHome": true,
+                "sortDirection": "desc"
+              },
+              "version": 1
+            },
+            "catalogName": "MUBI",
+            "addonBaseUrl": "https://aiometadata.forthewizards.uk/stremio/a17aa78a-655d-403e-9d94-5edd670fd287"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://raw.githubusercontent.com/ImKaptain/nuvio-art/main/art/streaming-services/mubi/mubi-hover.gif",
+        "titleLogoUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/companies/204957-mubi/logos/white/204957_white_2.png",
+        "coverImageUrl": "https://raw.githubusercontent.com/Facund3s/guianuviobr/refs/heads/main/Personaliza%C3%A7%C3%A3o/Imagens%20de%20Streamings/Capas%20Personalizadas/MUBI%20-%20Fundo%20Branco%20-%20Logo%20Preto.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.mub_movie"
+          },
+          {
+            "type": "series",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.mub_series"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/bramst0ne/prism-wallpapers/refs/heads/main/collections/companies/204957-mubi/backdrops/t2_flat_1080p.jpg"
+      }
+    ],
+    "pinToTop": true,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  }
+]
